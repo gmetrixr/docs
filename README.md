@@ -9,10 +9,26 @@
 * Run everything beyond this point inside the docker container.
 * To stop the container: Exit the docker container using `Ctrl+d`, and then `std` (STop Docker)
 
-## Initial Docusaurus Setup
+## One Time Initial Docusaurus Setup
 
 > https://docusaurus.io/docs/next/installation#scaffold-project-website
 
 ```
 npx @docusaurus/init@latest init gmetri-docs classic
+cd gmetri-docs
+rm -rf yarn.lock node_modules
+p i
+```
+
+* Add following to start script in gmetri-docs/package.json: `docusaurus start -p 8001 -h 0.0.0.0`
+
+## After Checking out project
+
+```bash
+./sd #To get inside docker container, everything below is in the container
+cd gmetri-docs
+p i
+p start #to start watch mode
+p build #to build website
+p deploy #to deploy website
 ```
