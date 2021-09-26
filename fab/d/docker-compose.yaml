@@ -8,7 +8,7 @@ services:
     working_dir: /src
     user: node
     ports:
-      - "8001:8001" #Format: HOST:CONTAINER
+      - "8002:8002" #Format: HOST:CONTAINER
     volumes:
       - .:/src
     environment:
