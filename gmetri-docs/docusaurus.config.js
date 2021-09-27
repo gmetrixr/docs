@@ -25,6 +25,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          // Going to docs on mode. https://docusaurus.io/docs/next/docs-introduction#docs-only-mode
+          routeBasePath: '/',
           // Please change this to your repo.
           editUrl: 'https://github.com/gmetrixr/docs/edit/main/gmetri-docs/',
         },
@@ -52,7 +54,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           srcDark: 'https://s.vrgmetri.com/gb-web/portal-docs/assets/img/logo-white.png'
         },
         items: [
-          {to: 'https://www.gmetri.com/help', label: 'Help Center', position: 'left'},
+          {href: 'https://www.gmetri.com/help', label: 'Help Center', position: 'left'},
           {
             type: 'doc',
             docId: 'intro',
@@ -60,11 +62,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
           },
           {href: 'https://www.gmetri.com/XR Academy', label: 'XR Academy', position: 'left'},
-          {
-            href: 'https://www.gmetri.com',
-            label: 'GMetri.com',
-            position: 'right',
-          },
+          {href: 'https://www.gmetri.com', label: 'GMetri.com', position: 'right'},
         ],
       },
       footer: {
