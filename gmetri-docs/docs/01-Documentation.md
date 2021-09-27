@@ -13,8 +13,8 @@ import Card from "../src/components/Card"
 
 # Documentation 
 
-<Card heading={"Features"} link={"/features/introduction"} />
-<Card heading={"Guidelines"} link={"/guidelines"} />
-<Card heading={"Compatibility"} link={"/compatibility"} />
-<Card heading={"FAQs"} link={"/faqs"} />
+<Card heading={"Features"} link={"./features"} />
+<Card heading={"Guidelines"} link={"./guidelines"} />
+<Card heading={"Compatibility"} link={"./compatibility"} />
+<Card heading={"FAQs"} link={"./faqs"} />
 
