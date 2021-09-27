@@ -25,7 +25,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Going to docs on mode. https://docusaurus.io/docs/next/docs-introduction#docs-only-mode
+          // Going to docs only mode. https://docusaurus.io/docs/next/docs-introduction#docs-only-mode
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl: 'https://github.com/gmetrixr/docs/edit/main/gmetri-docs/',
@@ -46,6 +46,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      gtag: {
+        trackingID: 'GTM-P3STB99',
+        // Optional fields.
+        anonymizeIP: true, // Should IPs be anonymized?
+      },
+      algolia: {
+        apiKey: '54a65c550f07165aef07aba800bfe18f',
+        indexName: 'gmetri',
+      },
       navbar: {
         title: 'GMetri Documentation',
         logo: {
@@ -57,7 +66,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {href: 'https://www.gmetri.com/help/', label: 'Help Center', position: 'left'},
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Introduction',
             label: 'Documentation',
             position: 'left',
           },

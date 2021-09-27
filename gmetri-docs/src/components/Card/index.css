@@ -1,0 +1,75 @@
+.tutorial_card {
+  width: 256px;
+  margin-right: 10px;
+  margin-bottom: 40px;
+  display: inline-block;
+  vertical-align: top;
+  text-decoration: none !important;
+}
+
+.tutorial_card__wrapper {
+  position: relative;
+  width: 256px;
+  height: 128px;
+  margin-bottom: 20px;
+  padding: 8px;
+  display: flex;
+  align-items: flex-end;
+  border: 1px solid #2e05c7;
+  transition: all 0.2s ease-in-out;
+}
+.tutorial_card__wrapper:hover {
+  border: 1px solid #000;
+  text-decoration: none !important;
+}
+
+.tutorial_card__wrapper:hover .tutorial_card__heading {
+  color: #000;
+}
+
+.tutorial_card__wrapper_active {
+  background-color: #2e05c7;
+}
+.tutorial_card__wrapper_active .tutorial_card__heading {
+    color: white;
+}
+
+.tutorial_card__wrapper_active:hover {
+  background-color: #000;
+}
+
+.tutorial_card__wrapper_active:hover .tutorial_card__badge {
+  border: 1px solid #000;
+  color: #000;
+}
+
+.tutorial_card__wrapper_active:hover .tutorial_card__heading {
+  color: white;
+}
+
+
+.tutorial_card__badge {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: 'NeutrifPro-Medium', sans-serif;
+  font-size: 14px;
+  border: 1px solid #2e05c7;
+  color: #2e05c7;
+  background-color: white;
+  padding: 8px;
+  transition: all 0.2s ease-in-out;
+}
+
+.tutorial_card__heading {
+  font-family: 'NeutrifPro-Bold', sans-serif;
+  font-size: 28px;
+  color: #2e05c7;
+  transition: all 0.2s ease-in-out;
+}
+
+.tutorial_card__desc {
+  font-family: 'NeutrifPro-Regular', sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
