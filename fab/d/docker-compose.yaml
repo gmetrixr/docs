@@ -1,9 +1,9 @@
 version: "3"
 
 services:
-  docusaurus-docs:
+  docs:
     image: "gmetrixr/baseimage:node-16-dev-v1"
-    container_name: gmetri_docusaurus-docs
+    container_name: gmetri_docs
     command: ["tail", "-f", "/dev/null"]
     working_dir: /src
     user: node
@@ -11,6 +11,9 @@ services:
       - "8002:8002" #Format: HOST:CONTAINER
     volumes:
       - .:/src
+      #Allow running host to run git commands:
+      - ~/.ssh:/home/node/.ssh:ro
+      - ~/.gitconfig:/home/node/.gitconfig:ro
     environment:
       - IS_LOCAL=true
       - BUILD_VERSION=localversion
