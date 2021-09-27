@@ -1,7 +1,7 @@
 .tutorial_card {
   width: 256px;
   margin-right: 10px;
-  margin-bottom: 40px;
+  margin-bottom: 12px;
   display: inline-block;
   vertical-align: top;
   text-decoration: none !important;
@@ -10,21 +10,24 @@
 .tutorial_card__wrapper {
   position: relative;
   width: 256px;
-  height: 128px;
-  margin-bottom: 20px;
-  padding: 8px;
+  height: 56px;
+  /* margin-bottom: 20px; */
+  padding: 12px;
   display: flex;
   align-items: flex-end;
-  border: 1px solid #2e05c7;
+  /* border: 1px solid #2e05c7; */
+  border: 1px solid #e9e9e9;
   transition: all 0.2s ease-in-out;
+  /* https://getcssscan.com/css-box-shadow-examples */
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 .tutorial_card__wrapper:hover {
-  border: 1px solid #000;
+  border: 1px solid #2e05c7;
   text-decoration: none !important;
 }
 
 .tutorial_card__wrapper:hover .tutorial_card__heading {
-  color: #000;
+  color: #2e05c7;
 }
 
 .tutorial_card__wrapper_active {
@@ -54,8 +57,8 @@
   left: 0;
   font-family: 'NeutrifPro-Medium', sans-serif;
   font-size: 14px;
-  border: 1px solid #2e05c7;
-  color: #2e05c7;
+  border: 1px solid #000;
+  color: #000;
   background-color: white;
   padding: 8px;
   transition: all 0.2s ease-in-out;
@@ -63,8 +66,9 @@
 
 .tutorial_card__heading {
   font-family: 'NeutrifPro-Bold', sans-serif;
-  font-size: 28px;
-  color: #2e05c7;
+  font-size: 16px;
+  font-weight: 600;
+  color: #000;
   transition: all 0.2s ease-in-out;
 }
 

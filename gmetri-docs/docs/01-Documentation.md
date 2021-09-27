@@ -1,0 +1,20 @@
+---
+title: "Documentation for using GMetri Platform"
+description: Getting started, Features, Tutorials, Guidelines, FAQs for using GMetri Platform related to creation of XR experiences, Content, Deployment with Oculus GO for your business requirements.
+
+sidebar_label: 'Documentation' #Name in sidebar
+sidebar_position: 1 # float position is supported
+# hide_title: true # Hides page heading
+id: intro # By default this is the folder/file name without extension
+slug: / # For complete control of path
+#In H1 below, page id gets used if h1 isn't provided
+---
+import Card from "../src/components/Card"
+
+# Documentation 
+
+<Card heading={"Features"} link={"/features/introduction"} />
+<Card heading={"Guidelines"} link={"/guidelines"} />
+<Card heading={"Compatibility"} link={"/compatibility"} />
+<Card heading={"FAQs"} link={"/faqs"} />
+

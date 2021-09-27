@@ -66,7 +66,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {href: 'https://www.gmetri.com/help/', label: 'Help Center', position: 'left'},
           {
             type: 'doc',
-            docId: 'Introduction',
+            docId: 'intro',
             label: 'Documentation',
             position: 'left',
           },
