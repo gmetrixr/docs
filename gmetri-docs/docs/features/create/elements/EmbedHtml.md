@@ -3,6 +3,7 @@ title: Insert a Html inside the Popup to Build XR Experiences
 sidebar_label: EmbedHtml
 description: View Description, Usage, Looks, Properties, Rules, When Events, Then Actions, Compatibility, Tutorials to Insert a QR Code Reader in GMetri XR experiences.
 hide_title: true
+#TODO: Add the tutorial link
 ---
 
 # EmbedHtml
@@ -16,7 +17,7 @@ The EmbedHtml element can render any custom HTML content in a popup. The visibil
 * Show a youtube/vimeo video inside your experience.
 * Embed another service like twitter on-demand (for example on clicking a twitter logo in the experience).
 * Render custom html content like a showing a wikipedia page on clicking an object in the experience.
-* Stream a live video from youtube/zoom. For further information on this, please see its [tutorial](../../../../Tutorials/Make/embed_livestream/).
+* Stream a live video from youtube/zoom. For further information on this, please see its tutorial.
 
 ## Looks ![EmbedHtml](https://s.vrgmetri.com/gb-web/portal-docs/assets/img/svg/Embed.svg#icon/) 
 

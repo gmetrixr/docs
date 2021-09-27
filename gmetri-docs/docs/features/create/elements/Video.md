@@ -3,6 +3,7 @@ title: Add videos to Build XR Experiences
 sidebar_label: Video
 description: View Description, Usage, Looks, Properties, Rules, When Events, Then Actions, Compatibility, Tutorials for Adding a 2D Video in GMetri XR experiences.
 hide_title: true
+#TODO: Add green screen effect link
 ---
 
 # Video
@@ -17,7 +18,7 @@ You can add a video in a loop and also mute a video if required.
 
 - Do a video playback inside your XR experience.
 - Do animations inside your XR experience.
-- Add a [green screen effect](../../../../Tutorials/Make/green_screen_effect/) to your XR experience.
+- Add a green screen effect to your XR experience.
 
 ## Looks ![Video](https://s.vrgmetri.com/gb-web/portal-docs/assets/img/svg/video_flat.svg#icon/) 
 

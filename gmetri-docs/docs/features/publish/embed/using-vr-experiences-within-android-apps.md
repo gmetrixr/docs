@@ -12,7 +12,7 @@ sidebar_label: Android
 To run GMetri experiences inside android apps, we recommend an implementation of Chrome Custom Tabs API. 
 Detailed information on how to setup an android experience with Chrome Custom Tabs can be found in this [experience](https://github.com/gmetrixr/chrome-custom-tabs/).
 
-Also checkout this [link](../Authentication/viewer_groups/token.md/) if you need authentication on GMetri experiences within your android app. 
+Also checkout this [link](../authentication/viewer_groups/token.md/) if you need authentication on GMetri experiences within your android app. 
 
 
 In your android experience add the required dependencies for Chrome Custom Tabs. Following is an example of gradle build dependencies:

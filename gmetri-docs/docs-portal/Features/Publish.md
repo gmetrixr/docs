@@ -79,7 +79,7 @@ Options:
 - **Show zoom controls (desktop only)**
 - **Allow fullscreen**
 - **Hide the GMetri logo in the viewer** - This enables white labelling.
-- **Allow Offlining** - Allow experience to run offline [(check compatibility)](../../../Guidelines/compatibility-matrix).
+- **Allow Offlining** - Allow experience to run offline [(check compatibility)](/docs/compatibility/platform-compatibility-matrix).
 - **Show "Reset View" button**
 - **Optimize Experience Image**
 - **Open only in supported browsers**

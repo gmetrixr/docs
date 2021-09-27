@@ -96,7 +96,7 @@ This section shows information on the rule and viewers that triggered it. This g
 
 - The Leader board on the analytics page shows a peek at the leaderboard page through a mini chart.
 
-This section will show up the score counted by the [Score](../Create/Elements/Score.md/) element in your experience. 
+This section will show up the score counted by the [Score](../create/elements/Score) element in your experience. 
 
 ![Analytics Viewer Information](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_leaderboard_mini.png.jpg#boxShadow/)
 

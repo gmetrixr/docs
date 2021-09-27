@@ -67,7 +67,7 @@ In your editor,
 ![Analytics Viewer Information](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_cl.png.jpg#boxShadow/)
 
 ## Leader Board
-This section will show up the score counted by the [Score](../Create/Elements/Score.md/) element in your experience. 
+This section will show up the score counted by the [Score](../create/elements/Score) element in your experience. 
 
 Leaderboard is enabled when you have score element in your experience.
 

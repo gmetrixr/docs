@@ -13,8 +13,8 @@ An asset is any external file that you use while building an experience.
 An asset might come from the following files: 
 1. **Audio file** - any MP3 file 
 2. **Image file** - any JPG, PNG, JPEG file 
-3. **Video file** - any MP4 file. For supported codecs visit [this page](/Guidelines/compatibility-matrix#media-codec-compatibility)
-4. **3D Model** - any gltf zip or glb file. More on [uploading gltf files](/Features/Create/file_manager/#uploading-3d-models) 
+3. **Video file** - any MP4 file. For supported codecs visit [this page](/docs/compatibility/platform-compatibility-matrix#media-codec-compatibility)
+4. **3D Model** - any gltf zip or glb file. More on [uploading gltf files](/docs/features/create/file_manager/#uploading-3d-models) 
 
 ## Basic Usage
 You can access the File Manager insider the editor by clicking on the **folder icon** on the left bar. 

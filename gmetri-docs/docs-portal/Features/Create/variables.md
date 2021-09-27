@@ -89,7 +89,7 @@ Tracking is be enabled on this variable to show results in analytics page. It ca
 6. `media_upload_uri` - This variable can be added to the experince by adding a Media Upload element. This element holds the full url of the image uploaded by the viewer. The information held by this variable can be seen under Views section in the analytics page.
 
 7. `browser_var` - This variable holds the information on the browser that a viewer uses. For a list of support browsers
-please check the [platform compatibility matrix](../../../Guidelines/compatibility-matrix/). Following values will be populated in the `browser_var` when the viewer views an experience:
+please check the [platform compatibility matrix](/docs/compatibility/platform-compatibility-matrix/). Following values will be populated in the `browser_var` when the viewer views an experience:
 
  `browser_var`     | Browser           | Device                                            |
 :------------------|:------------------|:--------------------------------------------------|

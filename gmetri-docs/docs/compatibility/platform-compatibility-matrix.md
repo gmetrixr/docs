@@ -81,15 +81,15 @@ The following are the platforms and browsers supported for creating and editing 
 
 | Feature         | Full Screen Mode | Embed Mode         | VR Mode           | Android app[^2] | 
 |:---             | :---:            | :---:              | :---:             | :---:       |
-| [AR Viewer](../../Features/Create/Elements/AR%20Viewer/)       | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
-| [ActionBar](../../Features/Create/Elements/Action%20Bar/)       | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
-| [Capture Text](../../Features/Create/Elements/Capture%20Text/)  | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
-| [EmbedHtml](../../Features/Create/Elements/EmbedHtml/)          | :white_check_mark: | :wavy_dash: [^1] | :heavy_minus_sign: | :white_check_mark: |
-| [Pop-up](../../Features/Create/Elements/Pop-up/)                | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
-| [Product Card](../../Features/Create/Elements/Product%20Card/)  | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
-| [Quiz](../../Features/Create/Elements/Quiz/)                    | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
-| [Share](../../Features/Create/Elements/Share/)                  | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
-| [Wayfinder](../../Features/Create/Elements/Wayfinder/)          | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
+| [AR Viewer](/docs/features/create/elements/AR%20Viewer/)       | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
+| [ActionBar](/docs/features/create/elements/Action%20Bar/)       | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
+| [Capture Text](/docs/features/create/elements/Capture%20Text/)  | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
+| [EmbedHtml](/docs/features/create/elements/EmbedHtml/)          | :white_check_mark: | :wavy_dash: [^1] | :heavy_minus_sign: | :white_check_mark: |
+| [Pop-up](/docs/features/create/elements/Pop-up/)                | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
+| [Product Card](/docs/features/create/elements/Product%20Card/)  | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
+| [Quiz](/docs/features/create/elements/Quiz/)                    | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
+| [Share](/docs/features/create/elements/Share/)                  | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
+| [Wayfinder](/docs/features/create/elements/Wayfinder/)          | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
 
 ### Legend
 
