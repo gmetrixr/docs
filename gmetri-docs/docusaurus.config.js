@@ -61,7 +61,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: 'Documentation',
             position: 'left',
           },
-          {href: 'https://www.gmetri.com/XR Academy', label: 'XR Academy', position: 'left'},
+          {href: 'https://www.gmetri.com/xracademy', label: 'XR Academy', position: 'left'},
           {href: 'https://www.gmetri.com', label: 'GMetri.com', position: 'right'},
         ],
       },
