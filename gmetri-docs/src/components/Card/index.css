@@ -1,5 +1,5 @@
 .tutorial_card {
-  width: 256px;
+  width: 300px;
   margin-right: 10px;
   margin-bottom: 12px;
   display: inline-block;
@@ -9,7 +9,7 @@
 
 .tutorial_card__wrapper {
   position: relative;
-  width: 256px;
+  width: 100%;
   height: 56px;
   /* margin-bottom: 20px; */
   padding: 12px;
