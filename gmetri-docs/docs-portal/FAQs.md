@@ -37,7 +37,7 @@ Once, you are in the settings page, scroll down to `Delete Organization` section
 
 ### Deleting your Account
 
-You can delete your account by going to the **profile** page from the drop-down menu, triggered by clicking on the profile picture in the top navbar.
+ You can delete your account by going to the **profile** page from the drop-down menu, triggered by clicking on the profile picture in the top navbar.
 
 ![Navbar profile](https://s.vrgmetri.com/gb-web/portal-docs/assets/img/screenshots/navbar-profile.png)
 
