@@ -1,5 +1,8 @@
+---
+sidebar_label: 'General FAQs' #Name in sidebar
+sidebar_position: 1 # float position is supported
+---
 import Card from "../../src/components/Card"
-
 
 # General FAQs
 
