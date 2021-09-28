@@ -168,6 +168,8 @@ And you are done! Here is what it looks like when you open the QR Code Reader fr
 
 ![qr example](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/qrexample.png.jpg#boxShadow "qr example")
 
+Now to activate it, add a rule saying when an element is clicked then the QR Code Reader should appear.
+
 ## How to run GMetri Experiences offline?
 
 All experiences created on the GMetri Platform can be run offline. The offlining feature depends on the subscription plan chosen by your organization.
