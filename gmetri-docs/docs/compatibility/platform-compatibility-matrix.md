@@ -1,7 +1,7 @@
 ---
 title: Platform Compatibility Matrix for XR Experience Creation
 description: Experience Creation Support, Viewer Support for Headset, Laptops, Android, Phone, iOS Phone, Feature Compatibility with Full Screen / VR mode, Media Codec Compatibility, Video Audio Formats.
-
+sidebar_position: 1 # float position is supported
 sidebar_label: Platform Compatibility Matrix
 ---
 
