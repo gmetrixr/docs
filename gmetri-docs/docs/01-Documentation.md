@@ -17,4 +17,3 @@ import Card from "../src/components/Card"
 <Card heading={"Guidelines"} link={"./guidelines"} />
 <Card heading={"Compatibility"} link={"./compatibility"} />
 <Card heading={"FAQs"} link={"./faqs"} />
-
