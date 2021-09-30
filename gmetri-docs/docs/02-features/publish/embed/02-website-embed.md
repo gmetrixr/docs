@@ -2,10 +2,10 @@
 title: How to Embed VR on Website with iFrame - Experience Deployment - GMetri XR Platform
 description: Experiences created on the GMetri platform can be easily embedded within websites using the embed code generated after publishing the experience - Tutorials on GMetri Documentation
 hide_title: true
-sidebar_label: Website
+sidebar_label: Website Embed
 ---
 
-# Website
+# Website Embed
 
 Experiences created on the GMetri platform can be easily embedded within websites using the embed code generated after publishing the experience.
 

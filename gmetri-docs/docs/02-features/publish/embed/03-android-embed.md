@@ -2,10 +2,10 @@
 title: How to Enable VR on Android App - Chrome Custom Tabs API - GMetri XR Platform
 description: Enable GMetri XR experiences within an Android app, by implementing Chrome CustomTabs API after publishing the experience - Tutorials on GMetri Documentation.
 hide_title: true
-sidebar_label: Android
+sidebar_label: Android Embed
 ---
 
-# Android
+# Android Embed
 
 ## Implementing Chrome Custom Tabs for GMetri Experiences
 

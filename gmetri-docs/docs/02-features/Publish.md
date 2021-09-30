@@ -45,7 +45,7 @@ Want more? [Upgrade](https://gmetri.com/pricing)!
     4. Viewer Group based
 8. Sharing options:
     1. Link
-    2. [Embed](./Publish/Embed/using-vr-experiences-from-websites/)
+    2. [Embed](/docs/features/publish/embed/introduction)
     3. Fullscreen
             
 Once you create an experience you can easily share it with everyone by creating a deployment. You have complete control over who can view an experience you created. This is done using **Viewer Groups**.

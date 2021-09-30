@@ -2,10 +2,10 @@
 title: How to Embed VR Experience in React Native iOS Android App - GMetri XR Platform
 description: Embed VR Experience in React Native iOS Android App  after publishing the experience - Tutorials on GMetri Documentation.
 hide_title: true
-sidebar_label: React Native (Android & iOS)
+sidebar_label: React Native (Android & iOS) Embed
 ---
 
-# React Native (Android & iOS)
+# React Native (Android & iOS) Embed
 
 There are various ways of embedding GMetri experiences within a React Native iOS/Android app.
 

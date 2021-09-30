@@ -17,6 +17,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'https://s.vrgmetri.com/gb-web/portal-docs/assets/img/favicon.ico',
   organizationName: 'gmetrixr', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
