@@ -1,22 +1,23 @@
 ---
 sidebar_label: 'Deployment FAQs' #Name in sidebar
 sidebar_position: 3 # float position is supported
+#TODO: Authentication article needs rewrite
 ---
 import Card from "../../src/components/Card"
 
 
 # Deployment FAQs
-####  How to handle authentication?  
+##  How to handle authentication?  
 
 In many cases, we may want to authenticate and control access to published GMetri content. There are a couple of ways to achieve this.
 
-#### You Handle the Authentication 
+### You Handle the Authentication 
 
-- Embed the experience on their App/Website/etc. and keep the access to this page authenticated.
+- Embed the experience on your App/Website/etc. and keep the access to this page authenticated.
 - You can enable a text field at the beginning of the experience, asking users to input their unique identifier (Example. Employee ID for internal training) so you can reference that back to the analytics, if required.
 - This method will incur no additional charges from GMetri. (Analytics charges, of course, are extra, and optional.)
 
-#### We Handle the Authentication  
+### We Handle the Authentication  
 
 - You can create as many GMetri view-only accounts for an experience as required.
 Example: A GMetri view-only account can be provided to each trainee for a VR training module.

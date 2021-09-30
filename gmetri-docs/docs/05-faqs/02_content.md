@@ -44,9 +44,8 @@ Use "Window>VR Comp Editor" instead of "Skybox Composer"
 
 
 ## How to create an XR Experience Storyboard?
-See:
 
-<Card heading={"XR Experience Storyboard"} link={".gmetri/features"} />
+<Card heading={"XR Experience Storyboard"} link={"/docs/gudelines/xr-expirence-storyboard"} />
 
 ## How to add a QR Code Scanner in an experience?
 QR codes are widely used these days to give quick access to a lot of things. In the GMetri Platform, you can scan a QR code to open a web-page link within the experience as an overlay and go back to the experience seamlessly.
@@ -76,10 +75,10 @@ GMetri experiences cannot be run offline currently.
 If you are looking for this feature, please contact us.
 
 ## How to compress images?
-<Card heading={"Media Compression"}   link={".gmetri/features"} />
+<Card heading={"Image Compression"}   link={"/docs/gudelines/media-compression#image-compression"} />
 
 ## How to compress videos?
-<Card heading={"Media Compression"}    link={".gmetri/features"} />
+<Card heading={"Video Compression"}    link={"/docs/gudelines/media-compression#video-compression"} />
 
 ## How to import content from a GoPro Fusion?
 Footage from your GoPro Fusion camera can be stitched and color corrected using GoPro Fusion Studio.  
@@ -112,9 +111,9 @@ On Mobile Phones (both Android and iOS based), experiences can be run on Chrome 
 
 In case you need to embed the experience within an App or a website, follow the guides below:  
 
-<Card heading={"Android App Embed - Chrome Custom Tab"}  link={".gmetri/features"} /> 
-<Card heading={"Using React Native in iOS and Android App"}    link={".gmetri/features"} />  
-<Card heading={"Website Embed"}    link={".gmetri/features"} />
+<Card heading={"Website Embed"}    link={"/docs/features/publish/embed/website-embed"} />
+<Card heading={"Android Embed"}  link={"/docs/features/publish/embed/android-embed"} /> 
+<Card heading={"React Embed"}    link={"/docs/features/publish/embed/react-native-embed"} />  
 
 ## Is GMetri WCAG AAA compliant?
 According to the [WCAG guideline page](https://www.w3.org/WAI/standards-guidelines/wcag/#for/),
