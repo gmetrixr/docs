@@ -2,6 +2,7 @@
 sidebar_label: 'Firewalls and Whitelisting' #Name in sidebar
 sidebar_position: 1 # float position is supported
 ---
+
 # Firewalls and Whitelisting
 
 ###  I have a network firewall in my organization. Which domain names are to be whitelisted to run GMetri experience?

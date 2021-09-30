@@ -3,7 +3,7 @@
 sidebar_label: 'Content FAQs' #Name in sidebar
 sidebar_position: 3 # float position is supported
 ---
-import Card from "../../src/components/Card"
+import Card from "/src/components/Card"
 
 # Content FAQS
 ## Can I use 4K 360 videos?

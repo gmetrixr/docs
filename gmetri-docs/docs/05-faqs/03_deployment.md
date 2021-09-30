@@ -3,10 +3,10 @@ sidebar_label: 'Deployment FAQs' #Name in sidebar
 sidebar_position: 3 # float position is supported
 #TODO: Authentication article needs rewrite
 ---
-import Card from "../../src/components/Card"
-
+import Card from "/src/components/Card"
 
 # Deployment FAQs
+
 ##  How to handle authentication?  
 
 In many cases, we may want to authenticate and control access to published GMetri content. There are a couple of ways to achieve this.

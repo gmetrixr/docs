@@ -2,8 +2,7 @@
 sidebar_label: 'Equirectangular Image' #Name in sidebar
 sidebar_position: 2 # float position is supported
 ---
-import Card from "../../src/components/Card"
-
+import Card from "/src/components/Card"
 
 # Equirectangular Image
 The editor uses Equirectangular Panoramic Images for the background elements.  
@@ -15,4 +14,4 @@ The file size of the Equirectangular Image also affects the load time of a scene
 
 You may use online compression sites like tinypng to compress png and squoosh to compress jpg images, for a lossless compression.
 
-<Card heading={"Media Compression"}  link={".gmetri/features"} /> 
+<Card heading={"Media Compression"}  link={"/docs/gudelines/media-compression"} /> 

@@ -2,10 +2,11 @@
 sidebar_label: 'QuickLinks - Content and Assets'
 sidebar_position: 3 # float position is supported
 ---
+
 # QuickLinks - Content and Assets
 Listed here are several online repositories where you can find the resources for your Virtual Reality Experiences. Quicklink Content and Assets on GMetri Documentation.
 
-### 360 VIDEOS
+### 360 Videos
 
 - **Shoot your own** - [GMetri Guidelines](../).
     - Popular 360 Cameras:
@@ -27,7 +28,7 @@ Listed here are several online repositories where you can find the resources for
     - https://stock.atmosphaeres.com/
     - https://www.gettyimages.in/videos/360?offlinecontent=include&phrase=360&sort=best#license 
 
-### 360 IMAGES
+### 360 Images
 
 - **Shoot your own** with the:
     -GoPro Fusion 360
@@ -51,7 +52,8 @@ Listed here are several online repositories where you can find the resources for
     - https://www.dreamstime.com/photos-images/360.html
     - https://www.openfootage.net/hdri-panorama/
  
-### 3D MODELS
+### 3D Models
+
 - Create / Import your own: GMetri Guideline
 - Integrated into the GMetri editor:
     - Sketchfab - Search and insert directly from your GMetri file manager
@@ -61,7 +63,7 @@ Listed here are several online repositories where you can find the resources for
     - https://www.cgtrader.com/
     - https://www.turbosquid.com/
  
-### AUDIO
+### Audio
 
 Audio can be used for background music and also for voice-overs. Use the following sites to find the right audio for your experience. 
 
@@ -74,15 +76,12 @@ Audio can be used for background music and also for voice-overs. Use the followi
     - https://freesound.org/
     - http://makerbook.net/audio/
  
-### ASSET COMPRESSION
+### Asset Compression
 
-**Image** and **Video** Compression: [GMetri Guideline](./compression.md/)
+<Card heading={"Media Compression"}  link={"/docs/gudelines/media-compression"} /> 
 
-
- 
-### 360 IMAGE TYPE CONVERSION
+### 360 Image Type Conversion
 
 360 images come in multiple formats like equirectangular, cube-map, etc. These images can be converted to the required format using the following links. 
 
 - https://www.360toolkit.co/convert-cubemap-to-spherical-equirectangular.html
-- Facebook Twitter LinkedIn

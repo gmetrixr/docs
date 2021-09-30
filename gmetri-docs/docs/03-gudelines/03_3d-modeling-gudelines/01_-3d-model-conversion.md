@@ -2,6 +2,7 @@
 sidebar_label: '3D Models Conversion' #Name in sidebar
 sidebar_position: 1 # float position is supported
 ---
+import Card from "/src/components/Card"
 
 # 3D Models Conversion
 
@@ -23,7 +24,5 @@ Compatible Formats:
 
 Alternatively, here are the GMetri guidelines to directly export your models to the gltf/glb v2 format:
 
-- from [3ds Max](./export-GLTF-from-3ds-max.md/)
-- from [Blender](./export-GLTF-from-blender.md/)
-
-Also, refer to the basic guidelines on [3D model](./3DModellingGuidelines.md/) creation.
+<Card heading={"GLTF from 3DS Max"}  link={"./export-gltf-from-3ds-max"} />
+<Card heading={"GLTF from Blender"}  link={"./export-gltf-from-blender"} /> 

@@ -3,7 +3,7 @@ sidebar_label: 'SCORM FAQs' #Name in sidebar
 sidebar_position: 4 # float position is supported
 #TODO: Need to update links
 ---
-import Card from "../../src/components/Card"
+import Card from "/src/components/Card"
 
 # SCORM FAQs
 
