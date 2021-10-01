@@ -100,7 +100,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'Contact Us',
-                href: 'https://www.gmetri.com/contactus'
+                href: 'https://www.gmetri.com/contact'
               }
             ],
           },
