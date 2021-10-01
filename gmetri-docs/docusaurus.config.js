@@ -53,6 +53,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         anonymizeIP: true, // Should IPs be anonymized?
       },
       algolia: {
+        //Check this: https://github.com/gmetrixr/help/blob/main/README-searchfix.md
         apiKey: '54a65c550f07165aef07aba800bfe18f',
         indexName: 'gmetri',
       },
