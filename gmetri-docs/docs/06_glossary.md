@@ -24,7 +24,6 @@ sidebar_position: 6
 
 **Dashboard:** Dashboard displays all experiences of an organization.
 
-**Elements:** Elements are basic building blocks used to create 2D and 3D Experiences on the GMetri Platform. [(more)](../../Features/Create/Elements/)
+**Elements:** Elements are basic building blocks used to create 2D and 3D Experiences on the GMetri Platform.
 
-**Viewer Group:** is a set of people allowed to see a deployment on the GMetri Platform. Every Deployment has a Viewer Group and anyone in an organization can create a Viewer Group. Several types of Viewer Groups can be created. 
-[(more)](../../Features/Publish/Authentication/viewer_groups/)
+**Viewer Group:** is a set of people allowed to see a deployment on the GMetri Platform. Every Deployment has a Viewer Group and anyone in an organization can create a Viewer Group. Several types of Viewer Groups can be created.
