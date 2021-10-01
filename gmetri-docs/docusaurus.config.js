@@ -53,6 +53,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         anonymizeIP: true, // Should IPs be anonymized?
       },
       algolia: {
+        //Check this: https://github.com/gmetrixr/help/blob/main/README-searchfix.md
         apiKey: '54a65c550f07165aef07aba800bfe18f',
         indexName: 'gmetri',
       },
@@ -72,7 +73,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
           },
           {href: 'https://www.gmetri.com/xracademy/', label: 'XR Academy', position: 'left'},
-          {href: 'https://www.gmetri.com', label: 'GMetri.com', position: 'right'},
+          {href: 'https://www.gmetri.com', label: 'GMetri.com', position: 'right', },
+          //The portal link can be removed once it easier to jump to the Portal from the website
+          {href: 'https://portal.gmetri.com', label: 'Dashboard', position: 'right',},
         ],
       },
       footer: {
@@ -100,7 +103,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'Contact Us',
-                href: 'https://www.gmetri.com/contactus'
+                href: 'https://www.gmetri.com/contact'
               }
             ],
           },
