@@ -13,12 +13,12 @@ sidebar_position: 4 # float position is supported
 
 1. Open color zilla extension from chrome extensions panel and select **Pick color from page** option.
    
-<!-- image -->
+![pick color](https://s.vrgmetri.com/image/w_600,q_90/gb-web/portal-docs/assets/img/screenshots/open_colorzilla_extension.png)
 
 2. Next hover over the greenscreen color in the video to select the exact color and paste the **HEX** code in the green screen color input. 
 
-<!-- image -->
-
+![hex_1 color](https://s.vrgmetri.com/image/w_600,q_90/gb-web/portal-docs/assets/img/screenshots/hex_1.png)
+![hex_2 color](https://s.vrgmetri.com/image/w_600,q_90/gb-web/portal-docs/assets/img/screenshots/hex-2.png)
 
 
 
