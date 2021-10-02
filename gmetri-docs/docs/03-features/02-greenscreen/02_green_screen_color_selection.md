@@ -10,9 +10,12 @@ The simplest way to determine the accurate green screen color is to use this chr
 
 1. Open color zilla extension from chrome extensions panel and select **Pick color from page** option.
 
-![pick color](https://s.vrgmetri.com/image/w_600,q_90/gb-web/portal-docs/assets/img/screenshots/open_colorzilla_extension.png)
+![Colorzilla Color Picker](https://s.vrgmetri.com/image/w_900,q_90/gb-web/portal-docs/assets/img/screenshots/green_screen/green_screen_color_selection_colorzilla.png)
 
 2. Next hover over the greenscreen color in the video to select the exact color and paste the **HEX** code in the green screen color input. 
 
-![hex_1 color](https://s.vrgmetri.com/image/w_600,q_90/gb-web/portal-docs/assets/img/screenshots/hex_1.png)
-![hex_2 color](https://s.vrgmetri.com/image/w_600,q_90/gb-web/portal-docs/assets/img/screenshots/hex-2.png)
+![Rightbar Coor Picker](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/green_screen/green_screen_color_selection_rightbar.png)
+
+## Result
+
+![Green Sceen Mobile](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/green_screen/green_screen_color_selection_result_mobile.png)
