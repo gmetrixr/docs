@@ -9,7 +9,7 @@ sidebar_label: E-Commerce Integration in a GMetri Experience
 
 ## Description
 
-This tutorial will demonstrate how to integrate an E-Commerce platform on a GMetri [experience](../../../Features/Create/experiences/)
+This tutorial will demonstrate how to integrate an E-Commerce platform on a GMetri experience.
 
 ## E-Commerce Integration
 
@@ -36,3 +36,4 @@ Please ensure that the scene you select from the dropdown has a Shopping element
 ![](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/shopping-card.png.jpg#boxShadow)
 
 6. The user will then be able to add, remove and modify the product to their cart. On clicking the cart icon on the top right corner, the user will be redirected to the cart page of the E-Commerce platform.
+ 
