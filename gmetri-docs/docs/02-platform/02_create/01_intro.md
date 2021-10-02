@@ -2,6 +2,7 @@
 title: "Experiences on GMetri Platform - Create & Add Elements - Create Feature of GMetri XR Platform"
 description: "Experiences on the GMetri Platform, Creation of experiences, Adding elements to XR experiences - Create Feature on GMetri XR Platform - Documentation"
 sidebar_label: Introduction
+sidebar_position: 1
 hide_title: true
 ---
 

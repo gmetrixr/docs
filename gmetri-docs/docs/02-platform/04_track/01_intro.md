@@ -1,6 +1,7 @@
 ---
 title: Track with Rich Analytics and Tracking Features - Analytics Dashboard
 sidebar_label: Introduction
+sidebar_position: 1
 description: GMetri's rich tracking feature set and access Analytics with Analytics Dashboard for Deployments - Tutorials on GMetri Documentation.
 hide_title: true
 ---

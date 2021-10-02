@@ -15,8 +15,8 @@ import Card from "/src/components/Card"
 
 The set of features available on the GMetri XR experience creation platform can be divided in 3 main categories:
 
-<Card heading={"Create"} link={"/Features/Create/"} />
+<Card heading={"Create"} link={"./create/intro"} />
 
-<Card heading={"Publish"} link={"/Features/Publish/"} />
+<Card heading={"Publish"} link={"./publish/intro"} />
 
-<Card heading={"Track"} link={"/Features/Track"} />
+<Card heading={"Track"} link={"./track/intro"} />

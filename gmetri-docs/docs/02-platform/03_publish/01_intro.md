@@ -1,6 +1,7 @@
 ---
 title: Experience Deployment - GMetri XR Platform
 sidebar_label: Introduction
+sidebar_position: 1
 description: Create Deployment, Structure of the Deployment's Card, Tweaking Deployment, Viewer restrictionson GMetri XR Platform - Tutorials on GMetri Documentation.
 hide_title: true
 ---
