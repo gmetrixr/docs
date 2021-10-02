@@ -4,8 +4,7 @@ sidebar_label: Introduction
 description: GMetri's rich tracking feature set and access Analytics with Analytics Dashboard for Deployments - Tutorials on GMetri Documentation.
 hide_title: true
 ---
-
-import Card from "../../src/components/Card"
+import Card from "/src/components/Card"
 
 # Track
 

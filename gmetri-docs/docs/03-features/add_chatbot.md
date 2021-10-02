@@ -4,7 +4,6 @@ description: Made using the GMetri XR platform, this app demonstrates the compat
 hide_title: true
 sidebar_label: Chatbot Integration
 ---
-
 # Chatbot
 
 <iframe src="https://view.gmetri.com/v4/gmetri/example_chatbot" width="100%" height="400px"></iframe>
@@ -27,11 +26,9 @@ This simple experience demonstrates chatbot integration on GMetri.
 
 ![](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/custom_script.png.jpg#boxShadow)
 
-1. [Head over to the editor](../../../Features/Create/build/#editor).
+1. Head over to the editor.
 2. Click on the `gear icon` in the bottom of the Right Bar.
 3. Paste the embed code in the `Custom Script` text area.
-
-To know more on script support inside GMetri Experiences head [here](../../../Features/Create/experiences/#adding-scripts-to-your-experience).
 
 ## Test
 

@@ -61,11 +61,7 @@ reality (VR) videos. You worry about shooting and perfecting those vacation
 candids, we do the job of heavy processing on it.
 :::
 
-## Elements Used
-
-- [Image](../../../Features/Create/Elements/Video/)
-
-## Add Elements
+## Create a Demo Experience
 
 Let's take a look at how you can add a green screen effect to a video using the
 GMetri Virtual Reality Platform.
@@ -95,4 +91,4 @@ Here's an example using blue background instead of a green background:
 
 ## Deploy
 
-- For other to view this app, you must deploy it. To do this head over to the [Publish](../../../Features/Publish/) section to know more.
+- For other to view this app, you must deploy it. To do this head over to the Publish section to know more.

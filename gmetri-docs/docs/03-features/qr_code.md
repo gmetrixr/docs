@@ -41,16 +41,16 @@ The above app can scan QR codes with the words "coffee" and "frother" only. When
 
 ## Elements Used
 
-- [Pano Image](../../../Features/Create/Elements/Pano%20Image/)
-- [Image](../../../Features/Create/Elements/Image/)
-- [Pop-Up](../../../Features/Create/Elements/Pop-up/)
-- [QR Code Matcher](../../../Features/Create/Elements/QR%20Code%20Matcher/)
+- Pano Image
+- Image
+- Pop-Up
+- QR Code Matcher
 
 ## Add Elements
-1. [Create a new experience](../../../Features/Create/experiences/#create-a-new-experience) called `Scanner`.
-2. [Head over to the editor](../../../Features/Create/build/#editor/).
-3. Click on the [Elements](../../../Features/Create/build/#elements-button/) button inside editor.
-4. Choose the [Pano Image](../../../Features/Create/Elements/Pano%20Image/).
+1. Create a new experience called `Scanner`.
+2. Head over to the editor.
+3. Click on the Elements button inside editor.
+4. Choose the Pano Image.
     - Give a name to the Pano Image. Here we named it `White_Background`.
     - Now, on the right bar, click on the upload button to upload a Pano Image. 
     
@@ -64,10 +64,10 @@ The above app can scan QR codes with the words "coffee" and "frother" only. When
         
     - Choose a Pano image and click on the `Select` button. The image will be applied as the background of your Scene.
 
-5. Click on the Elements button again and now choose the [Image](../../../Features/Create/Elements/Image/) element. An image thumbnail will appear in the Editor. We will use this image as a button.
+5. Click on the Elements button again and now choose the Image element. An image thumbnail will appear in the Editor. We will use this image as a button.
 6. This is the right time for us to use the `Gyro lock` feature. 
     - Click on Scene in the Structure Tab on the Right Bar. 
-    - Now go to Properties Tab and click on the [Gyro Lock](../../../Features/Create/build/#scene/). 
+    - Now go to Properties Tab and click on the Gyro Lock. 
     
     > *See the yellow highlighted setting in the image below.*
      
@@ -77,7 +77,7 @@ The above app can scan QR codes with the words "coffee" and "frother" only. When
     > Gyro lock is used for making 2D applications on the GMetri XR platform. 
 
 7. Next, upload an image to the Image element that we created in step 5. The steps to upload are pretty much the same as those shown in step 4 for uploading the Pano Image. We have used an image that suggests `QR Code scanner`.
-8. Once you're all set with your image, add 2 [Pop-Up](../../../Features/Create/Elements/Pop-up/) elements to the experience using the Elements button. These Pop-Ups will be used to show YouTube videos of the devices that we scan with the QR Code.
+8. Once you're all set with your image, add 2 Pop-Up elements to the experience using the Elements button. These Pop-Ups will be used to show YouTube videos of the devices that we scan with the QR Code.
 
     > Decide the number of objects that you want to scan the QR code for and create as many Pop-Up elements as devices. Here we choose 2 devices from the office - Coffee Maker and Milk Frother for this demo. Hence we add 2 pano elements in step 8.
 
@@ -96,8 +96,8 @@ The above app can scan QR codes with the words "coffee" and "frother" only. When
         
     - Do step 9 for all of the Pop-Ups.
 
-10. Add a [Text](../../../Features/Create/Elements/Text/) Element optionally to show the app name. Here, we use the name `Scanner`.
-11. Now, we add the most important element for this app, the [QR Code Matcher](../../../../Features/Create/Elements/QR%20Code%20Matcher/).
+10. Add a Text Element optionally to show the app name. Here, we use the name `Scanner`.
+11. Now, we add the most important element for this app, the QR Code Matcher.
     - Once added, head over to the Properties Tab of the QR Code Matcher and add two (or as many devices as you have) items as shown below.
         
         ![QR Matcher](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Code_Matcher.png.jpg#boxShadow/)
@@ -118,7 +118,7 @@ And the Right Bar Structure Tab should show your elements:
 
 Now that we have all the Elements in place, we need to add rules between elements for the app to work.
 
-1. Head over to the rules window by clicking on the [Rules](../../../Features/Create/build/#rules) button.
+1. Head over to the rules window by clicking on the Rules button.
 2. Firstly, we need to have a click event for the Image that should open the QR Code Matcher and start scanning for QR codes.
 
 ![Rules](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Image_QR_Matcher_Connection.png.jpg#boxShadow#zoom/)
@@ -138,5 +138,4 @@ Note that QR Code Matcher and Browser works only on mobile hence this experience
 
 ## Deploy
 
-- For other to view this app, you must deploy it. To do this head over to the [Publish](../../../Features/Publish/) section to know more.
-    
+- For other to view this app, you must deploy it. To do this head over to the Publish section to know more.

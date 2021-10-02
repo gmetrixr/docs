@@ -9,7 +9,7 @@ sidebar_position: 1 # float position is supported
 # slug: / # For complete control of path
 #In H1 below, page id gets used if h1 isn't provided
 ---
-import Card from "../../src/components/Card"
+import Card from "/src/components/Card"
 
 # Features
 

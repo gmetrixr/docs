@@ -5,8 +5,7 @@ description: Information on platform and browser support for experience creation
 
 hide_title: true
 ---
-
-import Card from "../src/components/Card"
+import Card from "/src/components/Card"
 
 # Guidelines
 

@@ -4,8 +4,7 @@ description: Content FAQs related to XR and Deployment FAQs related to deploymen
 sidebar_label: FAQs
 hide_title: true
 ---
-
-import Card from "../src/components/Card"
+import Card from "/src/components/Card"
 
 # FAQs
 

@@ -5,7 +5,7 @@ sidebar_label: Introduction
 hide_title: true
 ---
 
-import Card from "../../src/components/Card"
+import Card from "/src/components/Card"
 
 # Create
 

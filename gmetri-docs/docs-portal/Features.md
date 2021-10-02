@@ -5,8 +5,7 @@ description: Creation of XR experiences using GMetri Platform, Publishing the ex
 sidebar_label: Introduction
 hide_title: true
 ---
-
-import Card from "../src/components/Card"
+import Card from "/src/components/Card"
 
 # Features
 

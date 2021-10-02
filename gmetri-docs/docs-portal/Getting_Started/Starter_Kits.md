@@ -2,8 +2,7 @@
 hide_title: true
 sidebar_label: About
 ---
-
-import Card from "../../src/components/Card"
+import Card from "/src/components/Card"
 
 # About the Starter Kits
 
