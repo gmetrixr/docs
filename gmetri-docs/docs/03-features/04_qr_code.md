@@ -3,6 +3,7 @@ title: How to make a simple QR code scanner app - GMetri XR Platform
 description: Made using the GMetri XR platform, this app demonstrates the versatility of the GMetri platform, for enabling the creation of 2D experiences on the platform. 
 hide_title: true
 sidebar_label: QR Code Scanner
+sidebar_position: 4
 ---
 
 # QR Code Scanner

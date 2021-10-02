@@ -1,11 +1,12 @@
 ---
-title: How to create sprites for the GMetri XR platform
+title: Adding Sprites
 description: Made using the GMetri XR platform, this app demonstrates the compatibility of the GMetri platform with external services like chatbot.
 hide_title: true
-sidebar_label: How to add sprites to GMetri
+sidebar_label: Adding Sprites
+sidebar_position: 5
 ---
 
-# How to create sprites for the GMetri XR platform
+# Adding Sprites
 
 ## Description
 

@@ -3,11 +3,12 @@ title: How to add a green screen effect to your experiences - GMetri XR Platform
 description: Made using the GMetri XR platform, this demonstrates how to add a green screen effect to your mixed reality experiences.
 hide_title: true
 sidebar_label: Green Screen Effect
+sidebar_position: 1
 ---
 
 # Add a Green Screen Effect with Videos
 
-<iframe width={"100%"} height={"380px"} src="https://view.gmetri.com/v4/gmetri/green-screen" frameBorder="0" allowFullScreen></iframe>
+<iframe width={"100%"} height={"380px"} src="https://view.gmetri.com/v5/gmetri/green-screen" frameBorder="0" allowFullScreen></iframe>
 
 ## Description
 
