@@ -35,7 +35,7 @@ Want more? [Upgrade](https://gmetri.com/pricing)!
     1. Rename
     2. Delete
 2. Preview Experience
-3. [Analytics](./Track/)
+3. [Analytics](../track/intro)
 4. `LIVE` toggle switch
 5. `Location` tab
 6. `Metadata` tab
@@ -60,7 +60,7 @@ To enable people to view the experiences you create on the GMetri Platform, one 
 
 ### Viewer restrictions
 
-- You can choose who gets to see your experiences. This is done by selecting a particular [`Viewer Group`](./Publish/Authentication/viewer_groups).
+- You can choose who gets to see your experiences. This is done by selecting a particular [`Viewer Group`](./authentication/viewer_groups).
 - Head over to the `Location` tab to restrict viewers based on their geo-location or enable viewer location tracking.
 
 ![Metadata](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/deployment_location.JPG#boxShadow/)

@@ -39,10 +39,10 @@ The `Viewer Groups` viz. Public, Social and Editor are default Viewer Groups and
 
 Viewer Groups can be categorized as follows:
 
-1. [SSO](./viewer_groups/sso/) based
-2. [Custom List](./viewer_groups/custom_list/) based
-3. [Token](./viewer_groups/token/) based
+1. [SSO](./viewer_groups/sso) based
+2. [Custom List](./viewer_groups/custom_list) based
+3. [Token](./viewer_groups/token) based
 
 ## Apply Viewer Group to a Deployment 
 
-To apply a viewer group to a particular deployment, head over to the [deployment](../../Publish) section.
+To apply a viewer group to a particular deployment, head over to the Publish section.

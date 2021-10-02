@@ -12,7 +12,7 @@ import Card from "/src/components/Card"
 GMetri platform provides rich analytics and tracking features. Browse sections below to know more.
 
 :::caution 
-**Tracking is not enabled by default for all features on your deployments. To know more, go to [Optional Analytics](./Track/optional_analytics/) section.**
+**Tracking is not enabled by default for all features on your deployments. To know more, go to [Optional Analytics](./optional_analytics/) section.**
 :::
 
 <Card heading={"Views and Viewers"} 

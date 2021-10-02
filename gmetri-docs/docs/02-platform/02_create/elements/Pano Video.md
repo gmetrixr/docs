@@ -55,7 +55,7 @@ Add a Pano Video
 <!--* **Compatible with VR Headsets?**: Yes, Full Compatibility-->
 
 :::caution NOTE for iOS
-Videos will not auto-play on scene-load unless "Click to start" feature is enabled. This is because of an iOS restriction. You can enable "Click to start" from Publish (⚡) > Preferences. For more details head over [here](../../Publish#properties-tab).
+Videos will not auto-play on scene-load unless "Click to start" feature is enabled. This is because of an iOS restriction. You can enable "Click to start" from Publish (⚡) > Preferences.
 :::
 
 ## Tutorial

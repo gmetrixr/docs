@@ -11,9 +11,9 @@ Many analytics features are enabled by default but there are a certain optional 
 
 Following three set of features require specific actions to enable their tracking. To know more on how to enable them, click below.
 
-- [Rules](./#rule-funnel)
-- [User/Viewer Information](./#user-variables)
-- [Leaderboard](./#leader-board)
+- [Rules](#rule-funnel)
+- [User/Viewer Information](#user-variables)
+- [Leaderboard](#leader-board)
 
 ## Lead Generation
 
