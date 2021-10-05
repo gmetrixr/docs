@@ -2,6 +2,7 @@
 title: How to integrate an E-Commerce platform in a GMetri Experience
 description: E-Commerce Integration
 hide_title: true
+sidebar_position: 1 # float position is supported
 sidebar_label: E-Commerce Integration in a GMetri Experience
 ---
 
