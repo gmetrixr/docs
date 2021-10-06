@@ -7,7 +7,7 @@ sidebar_label: Experiences
 
 # Experiences
 
-![Dashboard](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/dashboard_experiences.png.jpg#boxShadow/)
+![Dashboard](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/dashboard_experiences.png.jpg#boxShadow/)
 
 ## Create a new experience
 On your dashboard, you will see the `Create Experience` button. 
@@ -20,7 +20,7 @@ On your dashboard, you will see all the experience cards under your organization
 
 ### Experience Cards
 
-![Experience Card](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/project_card.png.jpg#boxShadow/)
+![Experience Card](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/project_card.png.jpg#boxShadow/)
 
 The experience cards provide brief insight into the experiences. You will see:
 
@@ -34,8 +34,8 @@ To edit an experience, click on its card to head over to that experience's page.
 
 For quick access to experience actions, click on menu `=`.
 
-![Experience Menu](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/project_card_options.png.jpg#boxShadow/)
-![Experience Menu more](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/project_card_options_more.png.jpg#boxShadow/)
+![Experience Menu](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/project_card_options.png.jpg#boxShadow/)
+![Experience Menu more](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/project_card_options_more.png.jpg#boxShadow/)
 
 This is also the place that provides you a way to **duplicate** your experience. 
 
@@ -44,7 +44,7 @@ Click on the card to dive into the experience builder.
 
 You can access your experience settings using the Settings (gear) icon on the left-bar.
 
-![Experience Settings](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_settings.JPG#boxShadow/)
+![Experience Settings](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_settings.JPG#boxShadow/)
 
 The Experience settings will appears as a gear icon on the left bar while you are building your experience. If you haven't built any experience yet, please head over to the [Build](../build/) section first.
 
@@ -59,7 +59,7 @@ It has five tabs:
 
 ### General Settings
 
-![General Settings](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_general_settings.JPG#boxShadow/)
+![General Settings](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_general_settings.JPG#boxShadow/)
 
 Here you can:
 
@@ -72,17 +72,17 @@ Here you can:
 
 Use this tab to add new colaborators to the experience.
 
-![Collaborators](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_collaborator_settings.JPG#boxShadow/)
+![Collaborators](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_collaborator_settings.JPG#boxShadow/)
 
 ### Menu
 
-![Menu](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_menu_settings.JPG#boxShadow/)
+![Menu](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_menu_settings.JPG#boxShadow/)
 
 This tab is used to control the Menu used to toggle between Scenes.
 
 The menu looks like this:
 
-![Viewer Menu](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/viewer_menu_v5.jpg#boxShadow/)
+![Viewer Menu](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/viewer_menu_v5.jpg#boxShadow/)
 
 It appears both in the editor and in the viewer.
 On the menu tab, you can control if you want this menu enabled or disabled. You can also control if you want any scene to be shown in the menu or not individually.
@@ -91,11 +91,11 @@ On the menu tab, you can control if you want this menu enabled or disabled. You 
 
 Variables can be added to the experience in the variables tab. These varaibles can then be used in rules to control various properties of elements and scenes. Know more on how to use variables in the [Variables](./variables/) section.
 
-![Variable](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_variable_setttings.JPG#boxShadow/)
+![Variable](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_variable_setttings.JPG#boxShadow/)
 
 ### Advanced
 
-![Advanced](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_advanced_settings.JPG#boxShadow/)
+![Advanced](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_advanced_settings.JPG#boxShadow/)
 
 When working in the editor, some experiences require that custom logic be run when certain events occur, since this logic depends on specific use cases, the editor has a script property where a custom javascript can be entered. This script will be executed during the run time (i.e., in the view mode)
 
@@ -134,7 +134,7 @@ Use the tour mode to start a guided tour which starts after a few seconds of ina
 
 After enabling tour mode, you may select the scenes and the order in which to show them.
 
-![Tour Mode](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/expereince_tour_settings.JPG#boxShadow/)
+![Tour Mode](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/expereince_tour_settings.JPG#boxShadow/)
 
 An example of the tour mode can be seen in this experience:
 <iframe width={"100%"} height={"380px"} src="https://view.gmetri.com/v5/xyecjf/tour_mode_demo" frameborder="0" allowfullscreen></iframe>

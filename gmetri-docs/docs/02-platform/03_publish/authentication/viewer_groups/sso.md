@@ -17,7 +17,7 @@ When you use this, you have three options:
 
 - Filter By viewer list - all accounts google or azure based accounts in your viewer list are allowed to access your deployment.
 
-![viewer group enterprise](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/viewer_groups_enterprise.png.jpg#boxShadow/)
+![viewer group enterprise](https://sS.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/viewer_groups_enterprise.png.jpg#boxShadow/)
 
 ## SAML based SSO
 

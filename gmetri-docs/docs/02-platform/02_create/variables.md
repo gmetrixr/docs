@@ -7,7 +7,7 @@ sidebar_label: Variables
 
 Variables are used in the experience to control the various activities of elements and scenes through rules. But these variables are local and cannot be used for different experiences of the same organization.
 
-![Experience settings variables](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/custom_variables.JPG#boxShadow/)
+![Experience settings variables](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/custom_variables.JPG#boxShadow/)
 
 ### Adding Variables in an experience
 - In the experience settings, head over to the variables tab.
@@ -24,7 +24,7 @@ Global Variables remain same for the entire organization's different experiences
 - Head over to the Organization Settings from your avatar dropdown menu.
 - Click on `Define Global Variables` in the Variables tab.
 
-![define global variables](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/defineglobalvars.png#boxShadow/)
+![define global variables](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/defineglobalvars.png#boxShadow/)
 
 - Add the global variables by clicking on `Add Variable` button.
 
@@ -38,11 +38,11 @@ Global Variables remain same for the entire organization's different experiences
 - Add a TextBox by clicking on the `+` icon.
 - Put the Global Variable you want to use in the text in double curly brackets: {{GLOBAL_VAR}}.
 
-![gvars](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/gvars.png#boxShadow/)
+![gvars](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/gvars.png#boxShadow/)
 
 - Add a Rule: Change the value of {{GLOBAL_VAR}} to (let say "Global variables") after clicking on any element.
 
-![gvars rule](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/gvars_connection.png#boxShadow/)
+![gvars rule](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/gvars_connection.png#boxShadow/)
 
 - Deploy the experience using authentication as non-public.
 
@@ -58,7 +58,7 @@ After deploying the experience, it will be noticed that the GLOBAL_VAR contains 
 ## Auto-generated Variables
 Some variables are generated automatically when you create an experience. You may choose to retain or remove some of these variables. These variables are immutable and cannot be changed in value.
 
-![Experience settings variables](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/auto_variables.JPG#boxShadow/)
+![Experience settings variables](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/auto_variables.JPG#boxShadow/)
 
 ### Types of auto-generated variables
 1. `v_identifier_var` - A unique ID to identify each viewer who views the experience. This is generated to track the behaviour of the viewer throughout the experience. This can be viewed in the [analytics page](../Track/analytics_feature_set/#viewer-information).<br />
@@ -79,7 +79,7 @@ Tracking is be enabled on this variable to show results in analytics page. It ca
       4. Custom regex
       5. Phone number 
    
-    ![Lead Generation](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/lead_generation.JPG#boxShadow/)
+    ![Lead Generation](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/lead_generation.JPG#boxShadow/)
     
     The infomation stored inside these three variables are available for each individual viewer.
 
@@ -122,8 +122,8 @@ These variables can be added in various parts of a scene, such as a string value
 - Add a TextBox by clicking on the `+` icon.
 - Put the variable you want to use in the text in double curly brackets: {{VAR}}.
 
-![variables](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/vars.png#boxShadow/)
+![variables](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/vars.png#boxShadow/)
 
 - Add a Rule: Change the value of VAR to (let say "Gmetri") after clicking on any element.
 
-![Rule](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/Connection.png#boxShadow/)
+![Rule](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/Connection.png#boxShadow/)

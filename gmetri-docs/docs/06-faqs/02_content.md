@@ -17,7 +17,7 @@ We recommend you downsize your 360 videos to 2K (2048x1024) to make your content
 ## How to clean up the tripod?
 Tripods, Monopods or Drones often leave ghost marks at the bottom of your 360 footage.
 
-![tripod](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/tripod.png.jpg#boxShadow "tripod")
+![tripod](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/tripod.png.jpg#boxShadow "tripod")
 
 Removing tripods can often be tedious, and the simplest way is probably just to cover it up!
 
@@ -38,7 +38,7 @@ Use the "Immersive Video>VR Converter" effect in place of "Mettle Skybox Convert
 
 Use "Window>VR Comp Editor" instead of "Skybox Composer"  
 
-![editor menu](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/vrCompEditorMenu.jpg#boxShadow "editor menu")
+![editor menu](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/vrCompEditorMenu.jpg#boxShadow "editor menu")
 
 ![editor](https://s.vrgmetri.com/gb-web/portal-docs/assets/img/screenshots/vrCompEditor.JPG#boxShadow "editor")
 
@@ -54,19 +54,19 @@ It is now very simple to leverage QR code technology in your VR experience using
 
 Add a QR Code Reader element in a scene.
 
-![add qr](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/qrbutton.png.jpg#boxShadow "add qr")
+![add qr](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/qrbutton.png.jpg#boxShadow "add qr")
 
 
 Now to activate it, add a rule saying when an element is clicked then the QR Code Reader should appear.  
 
 
-![activate qr](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/qractivate.png.jpg#boxShadow "activate qr")
+![activate qr](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/qractivate.png.jpg#boxShadow "activate qr")
 
 
 And you are done! Here is what it looks like when you open the QR Code Reader from within the experience and after you scan the code.  
 
 
-![qr example](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/qrexample.png.jpg#boxShadow "qr example")
+![qr example](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/qrexample.png.jpg#boxShadow "qr example")
 
 
 ## How to run GMetri Experiences offline?

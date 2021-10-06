@@ -16,11 +16,11 @@ To create a viewer group (and to access all your viewer groups and their setting
  
 - Click on your avatar, then choose `Viewer Groups` from the menu.
 
-![avatar menu](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/avatar_dropdown.png.jpg#boxShadow/)
+![avatar menu](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/avatar_dropdown.png.jpg#boxShadow/)
 
 - This will redirect you to the `Viewer Groups` page.
 
-![viewer groups page](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/viewer_groups_page.png.jpg#boxShadow/)
+![viewer groups page](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/viewer_groups_page.png.jpg#boxShadow/)
 
 :::info
 The `Viewer Groups` viz. Public, Social and Editor are default Viewer Groups and cannot be removed or renamed.
@@ -29,7 +29,7 @@ The `Viewer Groups` viz. Public, Social and Editor are default Viewer Groups and
 - Click on `+ Viewer Group`. This will add a new entry to the `Viewer Group` section.
 - Upon doing so, you can expand this entry to change its settings.
 
-![viewer groups expanded](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/viewer_group_expanded.png.jpg#boxShadow/)
+![viewer groups expanded](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/viewer_group_expanded.png.jpg#boxShadow/)
 
 - You can choose among the three options available for the viewer groups. How to set them and what they do is explained in the `Types of Viewer Groups` sub-section below.
 

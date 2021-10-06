@@ -20,7 +20,7 @@ To create a deployment:
 
 This will show up options with a QR code that links to the deployment viewing page.
 
-![Deployment](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/deployment.JPG#boxShadow)
+![Deployment](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/deployment.JPG#boxShadow)
 
 :::info TIER LIMITS
 - Free accounts support only 1 live deployment at a time.
@@ -63,7 +63,7 @@ To enable people to view the experiences you create on the GMetri Platform, one 
 - You can choose who gets to see your experiences. This is done by selecting a particular [`Viewer Group`](./authentication/viewer_groups).
 - Head over to the `Location` tab to restrict viewers based on their geo-location or enable viewer location tracking.
 
-![Metadata](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/deployment_location.JPG#boxShadow/)
+![Metadata](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/deployment_location.JPG#boxShadow/)
 
 :::info TIER LIMITS
 Free accounts support only 50,000 lifetime views acorss experiences.
@@ -73,7 +73,7 @@ Want more? [Upgrade](https://gmetri.com/pricing)!
 
 ### Properties Tab
 
-![Experience Settings](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/publish_preferences.JPG#boxShadow/)
+![Experience Settings](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/publish_preferences.JPG#boxShadow/)
 
 Options: 
 - **Allow VR mode** - To allow VR mode in the viewer.
@@ -105,4 +105,4 @@ Want more? [Upgrade](https://gmetri.com/pricing)!
 
 Add Metadata to your Depoloyments to improve the experience. This allows you to control the HTML metadata of your experinece to change the page title (appears on the browser tab), description and tags. This helps in better search engine optimization (SEO) specific to your requirements.
 
-![Metadata](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/deployment_metadata.JPG#boxShadow/)
+![Metadata](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/deployment_metadata.JPG#boxShadow/)

@@ -11,4 +11,4 @@ When a deployment's authentication is set to `Editor` for a Deployment, viewers 
 
 The login screen for any experience that is set to Editor authentication mode looks something like this: 
 
-![Editor Login](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/editor_login.png.jpg#boxShadow/)
+![Editor Login](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/editor_login.png.jpg#boxShadow/)

@@ -10,12 +10,12 @@ Here is the complete [documentation](https://doc.babylonjs.com/resources/3dsmax/
 
 After installing babylon.js, a new menu button will appear in your 3ds Max. Clicking on it will bring up this screen.
 
-![3d max image1](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/3dmax_1.jpg#boxShadow "3d max image1")
+![3d max image1](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/3dmax_1.jpg#boxShadow "3d max image1")
 
 You can export either GLTF/GLB format. The editor supports both formats. Select one format and select your export folder and then click export.
 
-![3d max image2](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/3dmax_2.jpg#boxShadow "3d max image2")
+![3d max image2](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/3dmax_2.jpg#boxShadow "3d max image2")
 
 Once export is completed you will get the following message and then you can close the exporter.
 
-![3d max image3](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/3dmax_3.jpg#boxShadow "3d max image3")
+![3d max image3](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/3dmax_3.jpg#boxShadow "3d max image3")

@@ -10,7 +10,7 @@ sidebar_label: Build
 ## Concepts 
 
 ### Editor
-![Editor](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/editor.PNG#boxShadow)
+![Editor](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/editor.PNG#boxShadow)
 
 - Editor encompasses several tools necessary for building XR experiences from scratch. 
 - Editor can be used with no prior experience in the XR field and does not require any programming knowledge. 
@@ -62,7 +62,7 @@ Element have properties that vary according to the type of element. Here we list
     - Fade
 
 ### Rules
-![rules](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/connection.JPG#boxShadow/)
+![rules](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/connection.JPG#boxShadow/)
 
 Rules follow a `WHEN an EVENT is triggered THEN an ACTION is performed` model. Thus rules are applied to elements or a scene to perform certain action based on event triggers.
 
@@ -96,7 +96,7 @@ Some events and actions are element specific and can be found on the Element's d
 ## Components
 
 ### Mode, Axis and Snap
-![Editor top left menu](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/editor_top_left.png.jpg#boxShadow/)
+![Editor top left menu](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/editor_top_left.png.jpg#boxShadow/)
 
 **Mode:**
 
@@ -115,7 +115,7 @@ Some events and actions are element specific and can be found on the Element's d
 
 ### Zoom, Shortcuts and Quick Actions
 
-![Editor bottom left menu](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/editor_bottom_left.png.jpg#boxShadow/)
+![Editor bottom left menu](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/editor_bottom_left.png.jpg#boxShadow/)
 
 
 **Zoom:**
@@ -135,15 +135,15 @@ Some events and actions are element specific and can be found on the Element's d
 
 ### Right Bar
 
-![Right bar element props](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/editor_right_bar_element_props.png.jpg#boxShadow/)
-![Editor right bar scene structure](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/editor_right_bar_scene_structure.png.jpg#boxShadow/)
+![Right bar element props](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/editor_right_bar_element_props.png.jpg#boxShadow/)
+![Editor right bar scene structure](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/editor_right_bar_scene_structure.png.jpg#boxShadow/)
 
 Right bar consists of all the element and scene related settings.
 
 
 ### Left Bar
 
-![Left bar element props](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/editor_left_bar.JPG#boxShadow/)
+![Left bar element props](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/editor_left_bar.JPG#boxShadow/)
 
 
 You can access the following features from the Left bar:

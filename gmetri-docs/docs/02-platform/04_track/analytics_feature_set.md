@@ -7,7 +7,7 @@ sidebar_label: Feature Set
 
 # Feature Set
 
-![Analytics Views, Viewers and Avg. Session Duration](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_views_viewers_duration.png.jpg#boxShadow/)
+![Analytics Views, Viewers and Avg. Session Duration](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_views_viewers_duration.png.jpg#boxShadow/)
 ## Viewers
 
 This is a count of unique logins that occurred to view your experience. 
@@ -34,16 +34,16 @@ This measure gives you an idea of how long a user session lasts on an average.
 ## Browsers
 This gives you the count of views per browser for your experience. The browser section will also show you a pie chart made with view count per browser. 
 
-![Analytics Browser count](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_browsers.png.jpg#boxShadow/)
+![Analytics Browser count](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_browsers.png.jpg#boxShadow/)
 
 ## Platforms
 This gives you the count of views per platform for your experience. The platform section will also show you a pie chart made with view count per platform. 
 
-![Analytics Browser count](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_platform.png.jpg#boxShadow/)
+![Analytics Browser count](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_platform.png.jpg#boxShadow/)
 
 ## Viewer Information
 
-![Viewer Information](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_viewer_information.png.jpg#boxShadow/)
+![Viewer Information](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_viewer_information.png.jpg#boxShadow/)
 
 This section shows all information related to every viewer that viewed your experience. This contains information on:
 
@@ -71,7 +71,7 @@ This section shows all information related to every viewer that viewed your expe
 ## Sessions by Location
 This section shows you geo-location information of your viewers on `Google Maps`.
 
-![Analytics Viewer Information](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_location.png.jpg#boxShadow/)
+![Analytics Viewer Information](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_location.png.jpg#boxShadow/)
 
 :::info TIER LIMITS
 
@@ -83,12 +83,12 @@ Want this feature? [Upgrade](https://gmetri.com/pricing)!
 ## Rule Funnel
 This section shows you a frequency chart of how many times a rule in your experience was clicked. Using this information you can gain insights into how your viewers navigate through your experience.
 
-![Analytics Viewer Information](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_cf.png.jpg#boxShadow/)
+![Analytics Viewer Information](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_cf.png.jpg#boxShadow/)
 
 ## Rule log
 This section shows information on the rule and viewers that triggered it. This gives you a fine grained log of how exactly a viewer interacted with your experience.
 
-![Analytics Viewer Information](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_cl.png.jpg#boxShadow/)
+![Analytics Viewer Information](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_cl.png.jpg#boxShadow/)
 
 ## Leader Board
 
@@ -98,13 +98,13 @@ This section shows information on the rule and viewers that triggered it. This g
 
 This section will show up the score counted by the [Score](../create/elements/Score) element in your experience. 
 
-![Analytics Viewer Information](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_leaderboard_mini.png.jpg#boxShadow/)
+![Analytics Viewer Information](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_leaderboard_mini.png.jpg#boxShadow/)
 
 
 ### Leader board on a separate page
 When you click on the `more` button, you'll be taken to a leader board page. This page provides you with further customizations on what information you want to show on the leader board via URL parameters.
 
-![Analytics Viewer Information](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/leaderboard_page.png.jpg#boxShadow/)
+![Analytics Viewer Information](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/leaderboard_page.png.jpg#boxShadow/)
 
 #### Fixed Parameter
 
@@ -194,7 +194,7 @@ This page is accessible to anyone who has the link to the page.
 
 You can choose to filter analytics by time. Find the dropdown menu for this on analytics page.
 
-![Analytics Filter](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_filter.png.jpg#boxShadow/)
+![Analytics Filter](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_filter.png.jpg#boxShadow/)
 
 ## Filter Options
 

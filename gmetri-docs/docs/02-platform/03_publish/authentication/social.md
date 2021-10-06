@@ -15,4 +15,4 @@ Whenever a new deployment is created, its `Viewer Group` type is set to `Social`
 
 The login screen for any experience that is set to Social authentication mode looks something like this: 
 
-![Social Login](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/social_login.png.jpg#boxShadow/)
+![Social Login](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/social_login.png.jpg#boxShadow/)

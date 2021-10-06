@@ -23,7 +23,7 @@ Want more? [Upgrade](https://gmetri.com/pricing)!
 
 To add a team member, head over to the settings page.
 
-![Settings page](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/DAG/settings_navigation.png.jpg#boxShadow/)
+![Settings page](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/DAG/settings_navigation.png.jpg#boxShadow/)
 
 
 - In the Team Members section click on `+ Invite` and then enter email address of the person you wish to add, to your organization.
@@ -42,7 +42,7 @@ To remove a team member, head over to the Settings page and click on `remove` ag
 
 Use this tab to add new colaborators to the experience.
 
-![Collaborators](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_collaborator_settings.JPG#boxShadow/)
+![Collaborators](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_collaborator_settings.JPG#boxShadow/)
 
 - Click on `Add Collaborators` button under Collaborators section. 
 - Enter email address of a registered user who you want to collaborate with.

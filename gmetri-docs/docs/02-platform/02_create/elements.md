@@ -25,7 +25,7 @@ Elements belong to the following categories:
 
 ## Elements Button
 
-![Editor elements](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/elements.JPG#boxShadow/)
+![Editor elements](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/elements.JPG#boxShadow/)
 
 Find the `+` button in the editor that opens up an array of elements to be added to a scene.
 

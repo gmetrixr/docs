@@ -57,11 +57,11 @@ The above app can scan QR codes with the words "coffee" and "frother" only. When
     
         >Note: *Pano Image is the background of your Scene.*
     
-        ![QR_Tutorial_Pano](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Pano.png.jpg#boxShadow/)
+        ![QR_Tutorial_Pano](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Pano.png.jpg#boxShadow/)
         
     - Once you click that, the file uploader will open up. Here, either you can  upload a background of your choice or chose from the templates. To choose a white background from the templates, go to `templates/panos/helpers/` and find `white_pano.jpg`.
     
-        ![QR_Tutorial_Pano](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_File_Uploader.png.jpg#boxShadow/)
+        ![QR_Tutorial_Pano](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_File_Uploader.png.jpg#boxShadow/)
         
     - Choose a Pano image and click on the `Select` button. The image will be applied as the background of your Scene.
 
@@ -72,7 +72,7 @@ The above app can scan QR codes with the words "coffee" and "frother" only. When
     
     > *See the yellow highlighted setting in the image below.*
      
-     ![Gyro](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Gyro.png.jpg#boxShadow/)
+     ![Gyro](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Gyro.png.jpg#boxShadow/)
     
     - Go ahead and try to click and drag the experience. You can't? That's right. What you just observed is, the experience got locked in 2 dimensions and became non-draggable.
     > Gyro lock is used for making 2D applications on the GMetri XR platform. 
@@ -84,16 +84,16 @@ The above app can scan QR codes with the words "coffee" and "frother" only. When
 
 9. Double-click on the newly created Pop-Up Elements in the Structure Tab to change their names to something relevant to the product that will be displayed and click on the Properties Tab to change its properties:
     
-    ![Pop-Up](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Pop_Up.png.jpg#boxShadow/)
+    ![Pop-Up](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Pop_Up.png.jpg#boxShadow/)
     
     - Click on the `Add` button to add `Items` to the pop-up.
     
-        ![ADD](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Pop_Up_Add.png.jpg#boxShadow/)
+        ![ADD](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Pop_Up_Add.png.jpg#boxShadow/)
         
     - Now from the `Drop down` choose YouTube link.
     - Add the link and details of the product being displayed in the heading and description.
     
-        ![ADD youtube](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Pop_Up_YouTube.png.jpg#boxShadow/)
+        ![ADD youtube](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Pop_Up_YouTube.png.jpg#boxShadow/)
         
     - Do step 9 for all of the Pop-Ups.
 
@@ -101,7 +101,7 @@ The above app can scan QR codes with the words "coffee" and "frother" only. When
 11. Now, we add the most important element for this app, the QR Code Matcher.
     - Once added, head over to the Properties Tab of the QR Code Matcher and add two (or as many devices as you have) items as shown below.
         
-        ![QR Matcher](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Code_Matcher.png.jpg#boxShadow/)
+        ![QR Matcher](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Code_Matcher.png.jpg#boxShadow/)
     
     - QR Matcher matches the string in a scanned QR Code to the strings above, and performs certain activities accordingly. (We will explore how as we go ahead)
 
@@ -109,11 +109,11 @@ The above app can scan QR codes with the words "coffee" and "frother" only. When
 
 Once all elements are added, your editor should look something like this:
 
-![Editor](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial.png.jpg#boxShadow/)
+![Editor](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial.png.jpg#boxShadow/)
 
 And the Right Bar Structure Tab should show your elements:
 
-![Right bar](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Right_bar_summary.png.jpg#boxShadow/)
+![Right bar](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Right_bar_summary.png.jpg#boxShadow/)
  
 ## Add Rules
 
@@ -122,11 +122,11 @@ Now that we have all the Elements in place, we need to add rules between element
 1. Head over to the rules window by clicking on the Rules button.
 2. Firstly, we need to have a click event for the Image that should open the QR Code Matcher and start scanning for QR codes.
 
-![Rules](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Image_QR_Matcher_Connection.png.jpg#boxShadow#zoom/)
+![Rules](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Image_QR_Matcher_Connection.png.jpg#boxShadow#zoom/)
 
 3. Second, we add 2 rules that tell the Code Matcher to open the respective Pop-Up Elements when a particular string is scanned.
 
-![Rule](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Code_Matcher_Pop_Up_Connection.png.jpg#boxShadow#zoom/)
+![Rule](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/QR_Tutorial_Code_Matcher_Pop_Up_Connection.png.jpg#boxShadow#zoom/)
 
 ## Test
 

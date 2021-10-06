@@ -12,11 +12,11 @@ Event trigger vary from element to element and are specified in detail on every 
 
 To add a rule, hea over to the rule (zig-zag connected dots) button on the top left of your editor screen/
 
-![Editor rules](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/rules.JPG#boxShadow/)
+![Editor rules](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/rules.JPG#boxShadow/)
 
 Rules follow a `WHEN an EVENT is triggered THEN an ACTION is performed` model. Thus rules are applied to elements or a scene to perform certain action based on event triggers.
 
-![rules](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/rule_expanded.JPG#boxShadow/)
+![rules](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/rule_expanded.JPG#boxShadow/)
 
 ## Add rules
 

@@ -10,12 +10,12 @@ sidebar_label: Accessing Analytics
 - Head over to the Publish tab on the left bar of the editor.
 - Click on `Analytics` inside the deployment section on the top right of the deployment card. 
 
-![Deployment](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/deployment.JPG#boxShadow)
+![Deployment](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/deployment.JPG#boxShadow)
 ### Analytics Page
 
 Once you are on the analytics page, you shall find various sections on the page, that will show you a detailed analysis of your deployment. 
 
-![Analytics Page](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_page_1.png.jpg#boxShadow/)
+![Analytics Page](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/analytics_page_1.png.jpg#boxShadow/)
 
 ### Forward analytics to an external endpoint
 
@@ -24,7 +24,7 @@ You can configure live viewer state information to be forwarded to an external A
 - On `Settings` page, scroll down to the `Advanced` section and expand it.
 - Clicking on the `ENABLE VIEWER STATE FORWARDING` will reveal the following.
 
-![Viewer State Forwarding](https://r.vrgmetri.com/image/q_100/gb-web/portal-docs/assets/img/screenshots/viewer_state_forwarding.png.jpg#boxShadow/)
+![Viewer State Forwarding](https://s.vrgmetri.com/image/q_100/gb-web/portal-docs/assets/img/screenshots/viewer_state_forwarding.png.jpg#boxShadow/)
 
 - An API secret will be created for your organization. This can be used to validate source identity by you.
 - Enter an API endpoint for us to send requests to.

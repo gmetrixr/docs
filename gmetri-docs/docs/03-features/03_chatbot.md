@@ -20,12 +20,12 @@ This simple experience demonstrates chatbot integration on GMetri.
 
 ## Get The Embed Code For The Chatbot
 
-![](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/landbot_embed.png.jpg#boxShadow)
+![](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/landbot_embed.png.jpg#boxShadow)
 - Copy the code provided by the chatbot service.
 
 ## Add The Embed Code in the editor
 
-![](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/custom_script.png.jpg#boxShadow)
+![](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/custom_script.png.jpg#boxShadow)
 
 1. Head over to the editor.
 2. Click on the `gear icon` in the bottom of the Right Bar.

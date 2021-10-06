@@ -20,6 +20,6 @@ Apart from these, you can also set the deployment's authentication to restrict i
 When a new deployment is created, its authentication is set to [Public](./Authentication/public/) by default.
 You can see this in the `Authentication` drop down of the deployment card.
 
-![Deployment authentication](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/deployment_auth.JPG#boxShadow/)
+![Deployment authentication](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/deployment_auth.JPG#boxShadow/)
 
 Here you can set the authentication to any of the modes as stated above.

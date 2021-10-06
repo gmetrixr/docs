@@ -11,11 +11,11 @@ The second column in the csv is treated as the password field (regardless of wha
 
 A sample CSV containing some users with their names and an `arbitrary password` will look like:
 
-![Sample viewerlist with passwords](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/DAG/img9.png.jpg#boxShadow/)
+![Sample viewerlist with passwords](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/DAG/img9.png.jpg#boxShadow/)
 
 A sample CSV containing some users with only their names and `no password` will look like:
 
-![Sample viewerlist with passwords](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/DAG/img10.png.jpg#boxShadow/)
+![Sample viewerlist with passwords](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/DAG/img10.png.jpg#boxShadow/)
 
 
 :::caution
