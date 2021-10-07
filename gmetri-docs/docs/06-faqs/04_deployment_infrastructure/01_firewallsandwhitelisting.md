@@ -18,11 +18,12 @@ Simple Short List
 ## Expanded Long List
 (ONLY in case you can't use the above short list because of wildcards)
 - Essential:
-gmetri.com, community.gmetri.com  
-portal.gmetri.com, editor.gmetri.com, docs.gmetri.com  
-view.gmetri.com, preview.gmetri.com, offline.gmetri.com    
-api.gmetri.com, teaxrapi.gmetri.com, z5api.gmetri.com   
-s.vrgmetri.com, u.vrgmetri.com, d.vrgmetri.com, cdn-community.vrgmetri.com
+  * `gmetri.com`
+  * `portal.gmetri.com, editor.gmetri.com, docs.gmetri.com`
+  * `view.gmetri.com, preview.gmetri.com, offline.gmetri.com`
+  * `api.gmetri.com, teaxrapi.gmetri.com, z5api.gmetri.com, sms-api.gmetri.com, z5-viewer-socket.gmetri.com, z5-editor-socket.gmetri.com`
+  * `z5api.in.gmetri.com, sms-api.in.gmetri.com`
+  * `s.vrgmetri.com, u.vrgmetri.com, d.vrgmetri.com`
 - (Recommended) Help/support: `*.trackjs.com`
 - (Recommended) Location based features (Geo-Lock, Map Analytics): `*.googleapis.com, developers.google.com`
 
@@ -41,7 +42,6 @@ Here is a feature-wise breakup of URLs the editor needs access to:
 * Integrations/Google Poly: `*.googleapis.com, *.googleusercontent.com`
 * Integrations/Sketchfab: `*.sketchfab.com`
 * Maps (Location based analytics): `*.googleapis.com, developers.google.com, *.google.com, *.gstatic.com`
-
 
 ### Additional white-listing in case staging/testing environment is needed
 
