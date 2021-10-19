@@ -1,7 +1,7 @@
 ---
 title: Add a Pano Video to Build XR Experiences
 sidebar_label: Pano Video
-description: View Description, Usage, Looks, Properties, Rules, When Events, Then Actions, Compatibility, Tutorials for Adding a Pano Video in GMetri XR experiences.
+description: Pano Video Description, Usage, Looks, Properties, Rules, When Events, Then Actions, Compatibility, Tutorials for Adding a Pano Video in GMetri XR experiences.
 hide_title: true
 ---
 
