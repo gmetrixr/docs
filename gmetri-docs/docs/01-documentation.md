@@ -13,7 +13,7 @@ import Card from "/src/components/Card"
 
 # Documentation
 
-<Card heading={"Features"} link={"./features/create/build"} />
+<Card heading={"Features"} link={"./features/ecommerce/ecommerce"} />
 <Card heading={"Guidelines"} link={"./gudelines/360-degree-video-shoot"} />
 <Card heading={"Compatibility"} link={"./compatibility/platform-compatibility-matrix"} />
 <Card heading={"FAQs"} link={"./faqs/general"} />

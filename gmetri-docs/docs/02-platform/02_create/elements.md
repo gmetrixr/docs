@@ -1,4 +1,5 @@
 ---
+id: elements
 title: Build XR Experiences on GMetri Platform
 description: Understand concepts related to Elements on the GMetri XR platform.
 hide_title: true

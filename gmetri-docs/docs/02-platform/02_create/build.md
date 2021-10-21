@@ -1,4 +1,5 @@
 ---
+id: build
 title: Build XR Experiences on GMetri Platform
 description: Understand Concepts, Components, Editor, Scene, Elements, Rules, Mode, Axis and Snap, Zoom, Shortcuts and Quick Actions, Right Bar, Elements Button, Rules to build XR experiences
 hide_title: true

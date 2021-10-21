@@ -1,4 +1,5 @@
 ---
+id : duplicate_experience
 title: Duplicate an Experience
 description: Made using the GMetri XR platform, this app demonstrates the compatibility of the GMetri platform with external services like chatbot.
 hide_title: true
