@@ -61,12 +61,11 @@ Some variables are generated automatically when you create an experience.
   | :-------:      | :-----:        | :-----:           |
   | Laptop/PC      | Safari         | `safari`          |
   | Laptop/PC      | Chrome         | `chrome`          |
-  | Laptop/PC      | Edge           | `edge`            |
-  | Android        | Chrome         | `mchrome`         |
-  | iPhone         | Safari         | `msafari`         |
-  | iPhone         | Chrome         | `ioschrome`       |
-  | Android/iPhone | Facebook       | `fb`              |
-  | Mobile         | Samsung Internet | `samsung`       |
+  | Laptop/PC      | Edge           | `edge-chromium`   |
+  | iPhone         | Chrome         | `crios`           |
+  | iPhone         | Safari         | `ios`             |
+  | Android        | Chrome         | `chrome`          |
+  | Oculus         | Oculus browser | `samsung`         |
 
 Other actions like enabling `Lead Generation` form fields and adding Media Upload elements can also add auto-generated variables.
 
