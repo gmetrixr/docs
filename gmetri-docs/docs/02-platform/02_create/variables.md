@@ -47,14 +47,15 @@ Some variables are generated automatically when you create an experience.
 1. `score` - This is a special number variable that's used to generate the leaderboard in the analytics section. Use this to store any overall score you may have in the experience.
 2. `lang` - The `lang` variable can be used by enabling the `Show Language Screen` option in the settings section. To add languages, go to the `Languages` tab inside Splash Screen. This variable will hold the value of the language selected by the viewer.
 3. `v_identifier_var` - A unique ID to identify each viewer who views the experience. This can be viewed in the analytics page. Can be email/name etc. - depends on the authentication mechanism used in the Deployment section.
-4. `firstname_var` - A string variable that contains the first name of the user if we get it from the authentication mechanism. 
-device_var - Holds information about the viewer device type. Possible values: `d`,`m`,`h`.
+4. `firstname_var` - A string variable that contains the first name of the user if we get it from the authentication mechanism.
+5. `fullname_var` - A string variable that contains the full name of the user if we get it from the authentication mechanism.
+6. device_var - Holds information about the viewer device type. Possible values: `d`,`m`,`h`.
    * `d` -> Desktop
    * `m` -> Mobile
    * `h` -> Headset
 
-5. `vrmode_var` - Contains `TRUE` if the user enters VR Mode. Otherwise `FALSE`. Changes real-time to reflect the current state.
-6. `browser_var` - This variable holds the information on the browser that a viewer uses. For a list of support browsers please check the platform compatibility matrix. Following values will be populated in the browser_var when the viewer views an experience:
+7. `vrmode_var` - Contains `TRUE` if the user enters VR Mode. Otherwise `FALSE`. Changes real-time to reflect the current state.
+8. `browser_var` - This variable holds the information on the browser that a viewer uses. For a list of support browsers please check the platform compatibility matrix. Following values will be populated in the browser_var when the viewer views an experience:
 
   | Device         | Browser        | `browser_var` value |
   | :-------:      | :-----:        | :-----:           |
@@ -68,6 +69,21 @@ device_var - Holds information about the viewer device type. Possible values: `d
   | Mobile         | Samsung Internet | `samsung`       |
 
 Other actions like enabling `Lead Generation` form fields and adding Media Upload elements can also add auto-generated variables.
+
+
+## Global Variables
+
+Global Variables are shared across all experiences in a workspace. These are helpful if you want to track your users journey across multiple GMetri experiences.
+
+:::note
+When the user moves from one experience to another in the same workspace, the values in global variables is preserved across experiences
+:::
+
+### Defining Global Variables
+
+
+
+
 
 
 
