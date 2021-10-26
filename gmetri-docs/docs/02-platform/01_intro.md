@@ -11,9 +11,15 @@ sidebar_position: 1 # float position is supported
 ---
 import Card from "/src/components/Card"
 
-# Features
+# Platform 
 
-The set of features available on the GMetri XR experience creation platform can be divided in 3 main categories:
+### Building Blocks
+
+<Card heading={"Elements"} link={"./elements/intro"} />
+
+<Card heading={"Variables"} link={"./variables/intro"} />
+
+### Basics
 
 <Card heading={"Create"} link={"./create/intro"} />
 
