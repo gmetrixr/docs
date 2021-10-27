@@ -2,10 +2,10 @@
 title: Build XR Experiences on GMetri Platform
 description: Understand concepts related to Rules on the GMetri XR platform.
 hide_title: true
-sidebar_label: Rules
+sidebar_label: Introduction
 ---
 
-# Rules
+# Introduction to Rules
 
 Rules define the actions performed based on certain event triggers. Event triggers can be in the form of clicks, scene loads and many more.
 Event trigger vary from element to element and are specified in detail on every element's documentation page.

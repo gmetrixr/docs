@@ -14,7 +14,7 @@ An asset might come from the following files:
 1. **Audio file** - any MP3 file 
 2. **Image file** - any JPG, PNG, JPEG file 
 3. **Video file** - any MP4 file. For supported codecs visit [this page](/docs/compatibility/platform-compatibility-matrix#media-codec-compatibility)
-4. **3D Model** - any gltf zip or glb file. More on [uploading gltf files](/docs/platform/create/file_manager#uploading-3d-models) 
+4. **3D Model** - any gltf zip or glb file.
 
 ## Basic Usage
 You can access the File Manager insider the editor by clicking on the **folder icon** on the left bar. 
@@ -54,7 +54,7 @@ Following are the operations supported:
 4. **Copy** - Select single or multiple files/folders to copy them
 5. **Paste** - Use this to paste files/folder. 
 6. **Delete** - Use this to delete single or multiple files or folders
-7. **Upload** - Use this to open the uploader modal. More on this [here](/docs/platform/create/file_manager#uploading-assets)
+7. **Upload** - Use this to open the uploader modal.
 
 ![File Manager](https://s.vrgmetri.com/image/q_90,w_500/gb-web/portal-docs/assets/img/screenshots/file_manager/file_manager_screen2.png.jpg#boxShadow)
 

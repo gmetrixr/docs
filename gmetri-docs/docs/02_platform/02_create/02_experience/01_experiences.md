@@ -89,7 +89,7 @@ On the menu tab, you can control if you want this menu enabled or disabled. You 
 
 ### Variables
 
-Variables can be added to the experience in the variables tab. These varaibles can then be used in rules to control various properties of elements and scenes. Know more on how to use variables in the [Variables](./variables/) section.
+Variables can be added to the experience in the variables tab. These varaibles can then be used in rules to control various properties of elements and scenes.
 
 ![Variable](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/experience_variable_setttings.JPG#boxShadow/)
 

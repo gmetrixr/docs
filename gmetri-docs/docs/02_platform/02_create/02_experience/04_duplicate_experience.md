@@ -1,5 +1,4 @@
 ---
-id : duplicate_experience
 title: Duplicate an Experience
 description: Made using the GMetri XR platform, this app demonstrates the compatibility of the GMetri platform with external services like chatbot.
 hide_title: true
@@ -8,13 +7,9 @@ sidebar_label: Duplicate an Experience
 
 # Duplicate an Experience
 
----
-
 ## In the Same Workspace
 
 Go to Experience listing page. Open the content menu of the experience, and click `More > Duplicate`.
-
----
 
 ## To a Different Workspace
 
