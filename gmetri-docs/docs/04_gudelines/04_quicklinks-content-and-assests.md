@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'QuickLinks - Content and Assets'
+sidebar_label: 'QuickLinks for Assets'
 sidebar_position: 3 # float position is supported
 ---
 import Card from "/src/components/Card"

@@ -4,9 +4,7 @@ title: "Experiences on GMetri Platform - Create & Add Elements - Create Feature 
 description: "Experiences on the GMetri Platform, Creation of experiences, Adding elements to XR experiences - Create Feature on GMetri XR Platform - Documentation"
 sidebar_label: Introduction
 sidebar_position: 1
-hide_title: true
 ---
-
 import Card from "/src/components/Card"
 
 # Create
@@ -22,3 +20,16 @@ import Card from "/src/components/Card"
 <Card heading={"Elements"} 
       desc={"Information related to adding elements to your experiences on the GMetri Platform."} 
       link={"/Features/Create/elements/"} />
+
+## Building Blocks
+
+Experience
+
+Scene
+
+<Card heading={"Elements"} link={"./elements/intro"} />
+
+<Card heading={"Variables"} link={"./variables/intro"} />
+
+Rules
+

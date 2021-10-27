@@ -1,11 +1,9 @@
 ---
-sidebar_label: 'Embed a SCORM package in a GMetri experience' #Name in sidebar
-#TODO :1.ADD image for line 12
+sidebar_label: 'Embed a SCORM package in a GMetri experience'
+sidebar_position: 2
 ---
 
 # Embed a SCORM package in a GMetri experience
-
-## Description
 
 Once you create an [experience](https://docs.gmetri.com/Features/Create/experiences/) on the GMetri platform, you can embed an external SCORM package inside the experience.
 

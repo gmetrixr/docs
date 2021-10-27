@@ -1,11 +1,9 @@
 ---
-id: elements
-title: Build XR Experiences on GMetri Platform
 description: Understand concepts related to Elements on the GMetri XR platform.
 hide_title: true
 sidebar_label: Introduction
+sidebar_position: 1
 ---
-
 
 # Elements
 
@@ -24,9 +22,9 @@ Elements belong to the following categories:
 - User Interface
 - Connect
 
-## Elements Button
+## Adding Elements
 
-![Editor elements](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/elements.JPG#boxShadow/)
+![Editor Adding Elements](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/z5/elements.JPG#boxShadow/)
 
 Find the `+` button in the editor that opens up an array of elements to be added to a scene.
 

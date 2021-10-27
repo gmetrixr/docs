@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Creating Optimized Experiences' #Name in sidebar
+sidebar_label: 'Experience Optimization' #Name in sidebar
 sidebar_position: 7 # float position is supported
 ---
 import Card from "/src/components/Card"

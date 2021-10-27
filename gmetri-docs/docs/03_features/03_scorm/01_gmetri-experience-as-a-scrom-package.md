@@ -1,5 +1,6 @@
 ---
 sidebar_label : 'GMetri experience as a SCORM packages'
+sidebar_position: 1
 ---
 
 # GMetri experience as a SCORM packages

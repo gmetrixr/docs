@@ -3,7 +3,7 @@ title: Adding Sprites
 description: Made using the GMetri XR platform, this app demonstrates the compatibility of the GMetri platform with external services like chatbot.
 hide_title: true
 sidebar_label: Adding Sprites
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Adding Sprites
