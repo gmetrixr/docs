@@ -83,7 +83,7 @@ The following are the platforms and browsers supported for creating and editing 
 |:---             | :---:            | :---:              | :---:             | :---:       |
 | [AR Viewer](/docs/platform/create/elements/ar-viewer/)          | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
 | [ActionBar](/docs/platform/create/elements/actionbar/)          | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
-| [Capture Text](/docs/platform/create/elements/capture-text/)    | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
+| [Capture Input](/docs/platform/create/elements/capture-input/)    | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
 | [EmbedHtml](/docs/platform/create/elements/embedhtml/)          | :white_check_mark: | :wavy_dash: [^1]   | :heavy_minus_sign: | :white_check_mark: |
 | [Pop-up](/docs/platform/create/elements/popup/)                 | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
 | [Product Card](/docs/platform/create/elements/product-card/)    | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
