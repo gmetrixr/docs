@@ -82,7 +82,7 @@ The following are the platforms and browsers supported for creating and editing 
 | Feature         | Full Screen Mode | Embed Mode         | VR Mode           | Android app[^2] | 
 |:---             | :---:            | :---:              | :---:             | :---:       |
 | [AR Viewer](/docs/platform/create/elements/ar-viewer/)          | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
-| [ActionBar](/docs/platform/create/elements/action-bar/)         | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
+| [ActionBar](/docs/platform/create/elements/actionbar/)          | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
 | [Capture Text](/docs/platform/create/elements/capture-text/)    | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
 | [EmbedHtml](/docs/platform/create/elements/embedhtml/)          | :white_check_mark: | :wavy_dash: [^1]   | :heavy_minus_sign: | :white_check_mark: |
 | [Pop-up](/docs/platform/create/elements/popup/)                 | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
