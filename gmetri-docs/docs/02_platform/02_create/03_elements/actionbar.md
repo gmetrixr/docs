@@ -7,43 +7,35 @@ sidebar_label: Action Bar
 
 # Action Bar
 
-## Description
-
-Add an Action Bar
-
-## Looks ![Action Bar](https://s.vrgmetri.com/gb-web/portal-docs/assets/img/svg/actionbar%202.svg#icon/) 
+Actionbars are collapsible panels with actionable buttons (called items).
 
 ![Action Bar Element](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/Action_Bar_Element.jpeg#boxShadow/)
 
+### Compatibility
+
+| Fullscreen/Embed Mode | VR/Headset Mode    |
+| :------:              | :--------:         |
+| :white_check_mark:    | :heavy_minus_sign: |
+
 ## Properties
 
-![Action Bar Element Properties](https://r.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/Action_Bar_Element_properties.jpeg#boxShadow/)
-
-|  Property   | Description                                                                                          |
-| :---------: | :--------------------------------------------------------------------------------------------------- |
-|   Hidden    | Hiding the element makes the element invisible and disables all interaction with it as well.         |
-| Orientation | Orientation determines where the action bar should appear on the screen - bottom, top, left or right |
-|   Heading   | Heading of the action bar                                                                            |
-|  Elements   | All the elements that should appear in the action bar                                                |
+* **Position**: Top/Right/Bottom/Left.
+:::warning
+One position on the screen can only display one action bar a time
+:::
+* **Label**: A small optional heading that will displayed near the actionbar.
+* **Collapsible**: Check this if you want to show a collpse notch on the actiobar.
+:::note
+Collapsing the actionbar isn't the same as hiding the actionbar. A collapsed actionbar can pulled up again by the user using the notch. A hidden actiobar can't. 
+:::
+* **Color**
+* **Opacity**
 
 ##  Rules
 
-###  When Event
+* **Events**: `When actionbar item (n)` `has been clicked`/`is clicked`
+* **Actions**: `Then actionbar should` `appear`/`disappear`/`toggle show/hide`
 
-- gets clicked
-
-###  Then Actions
-
-- appear
-- disappear
-- toggle show/hide
-
-## Compatibility
-
-| Android (Google Chrome) | iOS (Google Chrome) | Oculus Go | PC (Google Chrome) |
-| :---------------------: | :-----------------: | :-------: | :----------------: |
-|           Yes           |         Yes         |    No     |        Yes         |
-
-## Tutorial
+## Example
 
 <iframe width={"100%"} height={"380px"}  src="https://www.youtube.com/embed/8nHcIJ7EtQY" frameBorder="0" allow="accelerometer; autoPlay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
