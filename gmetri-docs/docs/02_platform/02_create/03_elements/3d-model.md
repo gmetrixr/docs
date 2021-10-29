@@ -18,7 +18,7 @@ GMetri supports `.glb` and `.gltf[2]` formats for displaying 3D Models on the we
 
 ## Properties
 
-* **TRANSFORM**: 3D Placement (Tranform, Rotate, Scale)
+* **Transform**: 3D Placement (Translate, Rotate, Scale)
 * **Scale**
 * **Opacity**
 * **Wireframe**: Toggle wireframe mode
