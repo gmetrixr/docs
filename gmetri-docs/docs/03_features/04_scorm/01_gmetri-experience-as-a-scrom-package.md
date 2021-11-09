@@ -1,9 +1,9 @@
 ---
-sidebar_label : 'GMetri experience as a SCORM packages'
+sidebar_label : 'GMetri experience as a SCORM package'
 sidebar_position: 1
 ---
 
-# GMetri experience as a SCORM packages
+# GMetri experience as a SCORM package
 
 
 All GMetri experiences can be exported as web SCORM packages and imported into any LMS. We support SCORM 1.2 and SCORM 2004 package versions.
