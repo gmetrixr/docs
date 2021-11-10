@@ -6,15 +6,21 @@ sidebar_position: 1 # float position is supported
 # Private Cloud Deployment
 GMetri services, if required, can be deployed safely in your private cloud (firewalled zone). The preferred mode of a private cloud deployment is through Kubernetes.
 
-## Private Cloud Deployment (firewalled zone)
+## Is there any cost implication with private cloud hosting?
+
+Yes. GMetri licenses include hosting costs on GMetri servers. The ability to set up a private cloud to host XR experiences is only available on our Enterprise Tier. [Contact sales](https://www.gmetri.com/contact) to get a quotation today.
+
+## Deployment Types and Hardware Requirements
+
+### Private Cloud Deployment (firewalled zone)
 The GMETRI platform deploys as a Kubernetes cluster.  
 
 Below are the hardware and network requirements to set up a Kubernetes cluster in a private cloud that supports the GMetri platform.
-### Server Requirements
+#### Server Requirements
 
 The following table lists the **minimum** requirements setting up a High Availability (HA) cluster:  
 
-#### On Cloud (AWS/GCP/Azure)
+##### On Cloud (AWS/GCP/Azure)
 
 
 |  **Spec**  |   **Production Values**  |
@@ -25,7 +31,7 @@ The following table lists the **minimum** requirements setting up a High Availab
 |  Storage (SSD Based or better)  |   Min 256 GB per node supporting >500 sequential IOPS |
 |  Managed DB instance*  |  Managed DB instances from AWS/GCP/Azure with the minimum config of 4core vCPU + 16 GB RAM |
 
-#### Bare Metal (HA Setup)
+##### Bare Metal (HA Setup)
 
 |  **Spec**  |   **Production Values** |
 |:-----|:----|
@@ -38,10 +44,10 @@ The following table lists the **minimum** requirements setting up a High Availab
 * **Failure resilience for production servers**: 1 for master nodes and 1 for worker nodes separately. The resilience is of (n-1)/2 nodes per node-type where n is the number of nodes.  
 
 
- ## Single Rack-server/Desktop Deployment
+### Single Rack-server/Desktop Deployment
 We ideally recommend that GMetri is deployed on a cluster setup in a private cloud consisting of a minimum of 3 servers. However, in cases where that is not possible, GMetri can also be deployed on a single rack-server or a desktop.
 
-### Hardware Requirements
+#### Hardware Requirements
 The following are the recommended hardware requirements for such a deployment:
 
 | **Hardware**  |	 **Specification**	           | **Example**                      |
