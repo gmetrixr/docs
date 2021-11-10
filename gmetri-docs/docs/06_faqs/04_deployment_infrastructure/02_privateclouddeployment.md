@@ -10,6 +10,17 @@ GMetri services, if required, can be deployed safely in your private cloud (fire
 
 Yes. GMetri licenses include hosting costs on GMetri servers. The ability to set up a private cloud to host XR experiences is only available on our Enterprise Tier. [Contact sales](https://www.gmetri.com/contact) to get a quotation today.
 
+ ## Which network ports needs to open for a private cloud deployment?
+ Ideally, within the cluster, communication needs to be open - i.e. all cluster nodes should be able to contact all ports of all other cluster nodes.  
+
+ However in case a list of open ports is required, you can use the following list:
+
+ | Description |	Within Cluster (In AND Out)  |	External Load Balancer (In)	| Internet (Out) |
+|:------------|:----------------------------:|:----------------------------:|:--------------:|
+| Kubernetes Specific | 22 TCP <br/> 80 TCP<br/> 443 TCP<br/> 2376 TCP<br/> 2379 TCP<br/> 2380 TCP<br/> 6443 TCP <br/>6783 TCP <br/>6783-6784 UDP<br/> 8472 UDP <br/>9099 TCP<br/> 10250 TCP<br/> 10254 TCP | 80 TCP 443 TCP |  git.rancher.io:<br/> 35.160.43.145:32 <br/>35.167.242.46:32 <br/>52.33.59.17:32 <br/><br/> *.gmetri.com <br/> *.gmetri.io <br/> *.vrgmetri.com <br/> *.docker.io |
+|Workload Specific | 30000-32767 TCP & UDP | | |
+|Experience Specific |3000-3100 TCP<br/> 3306 TCP<br/> 5432 TCP<br/> 6739 TCP | |  |
+
 ## Deployment Types and Hardware Requirements
 
 ### Private Cloud Deployment (firewalled zone)
@@ -60,16 +71,7 @@ The following are the recommended hardware requirements for such a deployment:
 
  Keep in mind that this is not a HA (High Availability) setup. This means that any hardware failure could lead to permanent loss of data. In cases where data resiliency is critical, we recommend a [cluster setup](#what-are-the-recommended-server-requirements-for-gmetri-deployment-in-a-private-cloud-firewalled-zone).
 
- ## Which network ports needs to open for a private cloud deployment?
- Ideally, within the cluster, communication needs to be open - i.e. all cluster nodes should be able to contact all ports of all other cluster nodes.  
-
- However in case a list of open ports is required, you can use the following list:
-
- | Description |	Within Cluster (In AND Out)  |	External Load Balancer (In)	| Internet (Out) |
-|:------------|:----------------------------:|:----------------------------:|:--------------:|
-| Kubernetes Specific | 22 TCP <br/> 80 TCP<br/> 443 TCP<br/> 2376 TCP<br/> 2379 TCP<br/> 2380 TCP<br/> 6443 TCP <br/>6783 TCP <br/>6783-6784 UDP<br/> 8472 UDP <br/>9099 TCP<br/> 10250 TCP<br/> 10254 TCP | 80 TCP 443 TCP |  git.rancher.io:<br/> 35.160.43.145:32 <br/>35.167.242.46:32 <br/>52.33.59.17:32 <br/><br/> *.gmetri.com <br/> *.gmetri.io <br/> *.vrgmetri.com <br/> *.docker.io |
-|Workload Specific | 30000-32767 TCP & UDP | | |
-|Experience Specific |3000-3100 TCP<br/> 3306 TCP<br/> 5432 TCP<br/> 6739 TCP | |  |
+## Other Requirements
 
 ### Operating System Requirements
 The Operating System used will depend completely on the flavour of Kubernetes deployed. Examples are RancherOS, Ubuntu, CoreOS etc.  
