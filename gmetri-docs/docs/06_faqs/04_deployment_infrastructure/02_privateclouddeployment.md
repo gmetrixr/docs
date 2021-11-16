@@ -7,9 +7,11 @@ sidebar_position: 1 # float position is supported
 
 ## Does GMetri support on-premise deployments/Are there additional costs for the same?
 
-There are cases where security policies demand an on-premise deployment of cloud services (firewalled zone). For such cases GMetri supports on-premise deployments.
+There are cases where security policies demand an on-premise deployment of cloud services (firewalled zone). 
 
-**Additional Costs**
+For such cases, at an additional cost, GMetri supports on-premise deployments.
+
+### Additional Costs
 
 * There will be a one-time cost that can be determined if you email or [contact us](https://www.gmetri.com/help/pages/contact-us) with the following details:
    * The hardware configuration of the servers on which this service is to be deployed
@@ -23,10 +25,6 @@ These costs are in addition to the standard Enterprise Tier annual/monthly licen
 :::info
 The option to deploy on-premise is available only with the Enterprise Tier License
 :::
-
-## Is there any cost implication with private cloud hosting?
-
-Yes. GMetri licenses include hosting costs on GMetri servers. The ability to set up a private cloud to host XR experiences is only available on our Enterprise Tier. [Contact sales](https://www.gmetri.com/contact) to get a quotation today.
 
  ## Which network ports needs to open for a private cloud deployment?
  Ideally, within the cluster, communication needs to be open - i.e. all cluster nodes should be able to contact all ports of all other cluster nodes.  
