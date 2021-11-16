@@ -13,17 +13,17 @@ For such cases, at an additional cost, GMetri supports on-premise deployments.
 
 ### Additional Costs
 
-* There will be a one-time cost that can be determined if you email or [contact us](https://www.gmetri.com/help/pages/contact-us) with the following details:
-   * The hardware configuration of the servers on which this service is to be deployed
-   * Whether you use a cloud service provider like Google Cloud/AWS/Azure/Others or if you manage, provision your own servers and server racks (bare-metal)
-   * The general practice followed to (remotely) access the servers
-   * The protocol to open certain network ports for the servers
-* There may be additional SLA charges as needed
+* There will be a one-time cost that can be determined if you [email or contact us](https://www.gmetri.com/help/pages/contact-us) with the following details:
+   * The hardware configuration of the servers on which this service is to be deployed.
+   * Whether you use a cloud service provider like Google Cloud/AWS/Azure/Others or if you manage, provision your own servers and server racks (bare-metal).
+   * The general practice followed to (remotely) access the servers.
+   * The protocol to open certain network ports for the servers.
+* There may be additional SLA charges as needed.
 
 These costs are in addition to the standard Enterprise Tier annual/monthly license cost you would incur even without the on-Prem deployment.
 
 :::info
-The option to deploy on-premise is available only with the Enterprise Tier License
+The option to deploy on-premise is available with the Enterprise Tier License only.
 :::
 
  ## Which network ports needs to open for a private cloud deployment?
