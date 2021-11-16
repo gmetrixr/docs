@@ -3,8 +3,26 @@ sidebar_label: 'Private Cloud Deployment' #Name in sidebar
 sidebar_position: 1 # float position is supported
 ---
 
-# Private Cloud Deployment
-GMetri services, if required, can be deployed safely in your private cloud (firewalled zone). The preferred mode of a private cloud deployment is through Kubernetes.
+# GMetri Private Cloud Deployments
+
+## Does GMetri support on-premise deployments/Are there additional costs for the same?
+
+There are cases where security policies demand an on-premise deployment of cloud services (firewalled zone). For such cases GMetri supports on-premise deployments.
+
+**Additional Costs**
+
+* There will be a one-time cost that can be determined if you email or [contact us](https://www.gmetri.com/help/pages/contact-us) with the following details:
+   * The hardware configuration of the servers on which this service is to be deployed
+   * Whether you use a cloud service provider like Google Cloud/AWS/Azure/Others or if you manage, provision your own servers and server racks (bare-metal)
+   * The general practice followed to (remotely) access the servers
+   * The protocol to open certain network ports for the servers
+* There may be additional SLA charges as needed
+
+These costs are in addition to the standard Enterprise Tier annual/monthly license cost you would incur even without the on-Prem deployment.
+
+:::info
+The option to deploy on-premise is available only with the Enterprise Tier License
+:::
 
 ## Is there any cost implication with private cloud hosting?
 
