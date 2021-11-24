@@ -5,6 +5,8 @@ sidebar_position: 1 # float position is supported
 
 # GMetri Private Cloud Deployments
 
+GMetri can run a dedicated cluster in the AWS/GCP region of your choice to make sure you internal compliance needs are met. Please note that you need to be subscribed to an enterprise tier license to request this chargable feature. [Email or contact us](https://www.gmetri.com/help/pages/contact-us) to know more.
+
 ## Does GMetri support on-premise deployments/Are there additional costs for the same?
 
 There are cases where security policies demand an on-premise deployment of cloud services (firewalled zone). 
