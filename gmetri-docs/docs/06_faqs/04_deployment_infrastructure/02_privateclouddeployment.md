@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Private Cloud Deployment' #Name in sidebar
+sidebar_label: 'Dedicated/Private Cloud Deployment' #Name in sidebar
 sidebar_position: 1 # float position is supported
 ---
 
-# GMetri Private Cloud Deployments
+# GMetri Dedicated Cloud Deployments
 
 GMetri can run a dedicated cluster in the AWS/GCP region of your choice to make sure you internal compliance needs are met. Please note that you need to be subscribed to an enterprise tier license to request this chargable feature. [Email or contact us](https://www.gmetri.com/help/pages/contact-us) to know more.
 
