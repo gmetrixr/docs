@@ -91,6 +91,17 @@ The following are the platforms and browsers supported for creating and editing 
 | [Share](/docs/platform/create/elements/share/)                  | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
 | [Wayfinder](/docs/platform/create/elements/wayfinder/)          | :white_check_mark: | :white_check_mark: | :heavy_minus_sign: | :white_check_mark: |
 
+### Supported browser versions
+| Browser                               | Version  |
+|:---                                   | :---:    |
+| Chrome                                | >81      |
+| Edge                                  | >46      |
+| Safari                                | >13      |
+| Chomium Webview                       | >81      |
+| Chrome iOS                            | >81      |
+| Safari iOS                            | >13      |
+
+
 ### Legend
 
 - :white_check_mark: Supported
