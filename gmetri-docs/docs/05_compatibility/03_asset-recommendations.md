@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Asset Recommendations' #Name in sidebar
-sidebar_position: 2 # float position is supported
+sidebar_position: 3 # float position is supported
 ---
 import Card from "/src/components/Card"
 
