@@ -23,7 +23,7 @@ import Card from "/src/components/Card"
 
 Here's a short video to get you familiar with the GMetri Platform:
 
-<iframe width={"100%"} height={"380px"} src="https://youtu.be/_JqrOIeK-x4" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width={"100%"} height={"380px"} src="https://www.youtube.com/embed/_JqrOIeK-x4" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ________________________________________
 
