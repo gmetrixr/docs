@@ -14,9 +14,11 @@ If you still see an error, contact us at support@gmetri.com.
 
 ## Browser List
 
-| Device                  | Browser          | Version  |
-| :---:                   | :---:            | :---:    |
-| Apple iPhone            | Safari, Chrome   | Chrome >81 ,      |
-| Android Phone/Tablet    | Chrome, Edge     | >46      |
-| Apple iPad/Macbook      | Safari, Chrome   | >13      |
-| Windows Laptop          | Chrome, Edge     | >81      |
+| Device                  | Browser          |
+| :---:                   | :---:            |
+| Apple iPhone            | Safari, Chrome   |
+| Android Phone/Tablet    | Chrome, Edge     |
+| Apple iPad/Macbook      | Safari, Chrome   |
+| Windows Laptop          | Chrome, Edge     |
+
+[Click here](./platform-compatibility-matrix#supported-browser-versions) to get the list of supported versions.
