@@ -7,10 +7,8 @@ sidebar_label: Supported Browsers
 
 # GMetriXR Player - Supported Browsers
 
-If you aren't on one of the browsers mentioned below, you may see an "Unsupported Browser" error.
-Try running the experience in one of the browsers below.
-
-If you still see an error, contact us at support@gmetri.com.
+If you aren't on one of the browsers mentioned below, you may see an **"Unsupported Browser"** screen.
+Try running the experience in one of the browsers below to fix the error.
 
 ## Browser List
 
@@ -22,3 +20,5 @@ If you still see an error, contact us at support@gmetri.com.
 | Windows Laptop          | Chrome, Edge     |
 
 [Click here](./platform-compatibility-matrix#supported-browser-versions) to get the list of supported versions.
+
+If you still see an error after switching your browser, contact us at support@gmetri.com.
