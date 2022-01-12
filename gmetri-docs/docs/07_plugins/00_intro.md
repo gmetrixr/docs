@@ -29,8 +29,8 @@ Any changes done via the API interface will be visible immediately on the GMetri
 For example, creating a new experience via REST APIs will also show this newly created experience on platform experiences page.
 
 The REST APIs are broken down into 2 different functions:
-* **Experience** - This contains APIs for creating, viewing and modifying experiences. Detailed documentation is available [here](./experience)
-* **File Manager** - This contains APIs for uploading and managing files (**image/video/audio/3d**). Detailed documentation is available [here](./filemanager)
+* **Experience** - This contains APIs for creating, viewing and modifying experiences. Detailed documentation is available [here](./rest_api/experience)
+* **File Manager** - This contains APIs for uploading and managing files (**image/video/audio/3d**). Detailed documentation is available [here](./rest_api/filemanager)
 
 ### GMetri Player
 GMetri exposes it's **viewer** as a standalone player which can be added to any application via javascript. 
