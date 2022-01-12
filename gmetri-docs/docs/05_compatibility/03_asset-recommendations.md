@@ -42,6 +42,9 @@ The editor uses Equirectangular Panoramic Images for the background elements.
 
 Equirectangular images should have an **aspect-ratio of 2:1**
 
+:::note
+**Oculus Go** doesn't support images (both normal and panoramic) of resolution more than 4K (4096x2048)
+:::
 
 ## Audio
 
