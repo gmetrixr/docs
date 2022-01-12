@@ -34,7 +34,7 @@ Supported file formats: **jpg & png**
 
 You may use online compression sites like tinypng to compress png and squoosh to compress jpg images, for a lossless compression.
 
-<Card heading={"Media Compression"}  link={"/docs/gudelines/media-compression"} /> 
+<Card heading={"Media Compression"}  link={"/docs/guidelines/media-compression"} /> 
 
 ### Equirectangular Images
 
