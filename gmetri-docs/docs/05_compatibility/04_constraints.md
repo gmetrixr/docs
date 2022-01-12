@@ -36,3 +36,5 @@ This is important, as its very easy to balloon up your graphic memory usage, and
 For example, if you run 3 4K (4096x2048) vidoes, you are effectively using 3x4096x2048 x (4 bytes per pixel) = 48MB of memory for _every single frame_!
 
 So, try to limit the number of high resolution images and videos you add to a scene.
+
+When you run out of graphic memory, you may also see things like green screen not work properly.
