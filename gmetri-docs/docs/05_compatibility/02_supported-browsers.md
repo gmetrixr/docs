@@ -19,6 +19,12 @@ Try running the experience in one of the browsers below to fix the error.
 | Apple iPad/Macbook      | Safari, Chrome   |
 | Windows Laptop          | Chrome, Edge     |
 
-[Click here](./platform-compatibility-matrix#supported-browser-versions) to get the list of supported versions.
+### Supported Browser Versions
 
-If you still see an error after switching your browser, contact us at support@gmetri.com.
+| Browser                               | Version  |
+|:---                                   | :---:    |
+| Chrome                                | >81      |
+| Edge                                  | >46      |
+| Safari                                | >13      |
+
+If you still see an error after switching your browser, contact us at techsupport@gmetri.com.

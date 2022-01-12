@@ -15,9 +15,9 @@ import Card from "/src/components/Card"
 
 ### Building Blocks
 
-<Card heading={"Elements"} link={"./elements/intro"} />
+<Card heading={"Elements"} link={"/docs/platform/create/elements/intro"} />
 
-<Card heading={"Variables"} link={"./variables/intro"} />
+<Card heading={"Variables"} link={"/docs/platform/create/variables/intro"} />
 
 ### Basics
 

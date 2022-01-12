@@ -24,5 +24,19 @@ Once, you are in the profile page, click on `Delete My Account`, and confirm to 
 
 ![Delete Account](https://s.vrgmetri.com/gb-web/portal-docs/assets/img/screenshots/delete-account.png)
 
+## Is GMetri WCAG AAA compliant?
+
+According to the [WCAG guideline page](https://www.w3.org/WAI/standards-guidelines/wcag/#for/),
+
+WCAG is primarily intended for:
+* Web content developers (page authors, site designers, etc.)
+* Web authoring tool developers
+* Web accessibility evaluation tool developers
+* Others who want or need a standard for web accessibility, including for mobile accessibility
+
+GMetri Platform is **WCAG AAA** compliant. AAA refers to the highest level of success criteria. 
+
+To understand different levels of conformance, head [here](https://www.w3.org/TR/WCAG20/#conformance/).
+
  
 
