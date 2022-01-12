@@ -19,7 +19,7 @@ import Card from "/src/components/Card"
 <Card heading={"Compatibility"} link={"./compatibility/platform-compatibility-matrix"} />
 <Card heading={"FAQs"} link={"./faqs/general"} />
 
-## Demo
+## Meet GMetri
 
 Here's a short video to get you familiar with the GMetri Platform:
 
