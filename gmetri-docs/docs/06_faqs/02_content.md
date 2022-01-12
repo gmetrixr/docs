@@ -6,13 +6,13 @@ sidebar_position: 3 # float position is supported
 import Card from "/src/components/Card"
 
 # Content FAQS
+
 ## Can I use 4K 360 videos?
 Yes, but with a few limitations. 
 
 4K (3840x2160) videos can be used in the experiences meant for viewing on a PC or Oculus Go. These are currently incompatible with mobile phones.  
 
 We recommend you downsize your 360 videos to 2K (2048x1024) to make your content compatible everywhere, unless meant exclusively for PC / Oculus Go.
-
 
 ## How to clean up the tripod?
 Tripods, Monopods or Drones often leave ghost marks at the bottom of your 360 footage.
@@ -47,7 +47,8 @@ Use "Window>VR Comp Editor" instead of "Skybox Composer"
 
 <Card heading={"XR Experience Storyboard"} link={"/docs/gudelines/xr-expirence-storyboard"} />
 
-## How to add a QR Code Scanner in an experience?
+## How can I add a QR Code Scanner in an experience?
+
 QR codes are widely used these days to give quick access to a lot of things. In the GMetri Platform, you can scan a QR code to open a web-page link within the experience as an overlay and go back to the experience seamlessly.
 
 It is now very simple to leverage QR code technology in your VR experience using the GMetri Platform. This is how you do it:
@@ -69,7 +70,8 @@ And you are done! Here is what it looks like when you open the QR Code Reader fr
 ![qr example](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/qrexample.png.jpg#boxShadow "qr example")
 
 
-## How to run GMetri Experiences offline?
+## How can I run GMetri Experiences offline?
+
 GMetri experiences cannot be run offline currently.  
 
 If you are looking for this feature, please contact us.
@@ -80,7 +82,8 @@ If you are looking for this feature, please contact us.
 ## How to compress videos?
 <Card heading={"Video Compression"}    link={"/docs/gudelines/media-compression#video-compression"} />
 
-## How to import content from a GoPro Fusion?
+## How can I import content from GoPro Fusion?
+
 Footage from your GoPro Fusion camera can be stitched and color corrected using GoPro Fusion Studio.  
 
 Download the latest version here.  
@@ -89,44 +92,6 @@ Perform simple color corrections, camera rotation fixes and clip videos all from
 
 Here's a tutorial on the GoPro Fusion Studio:
 <iframe width={"100%"} height={"380px"}  src="https://www.youtube.com/embed/RTv2HjghdIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## In what hardware & software can GMetri experiences be viewed in?
-
-GMetri XR experiences run on: 
-
-- All headsets - HTC Vive, Oculus Go/Rift, Google Card  
-- All Laptops/Desktop on chrome  
-- All Mobile Phones  
-  - Android  
-  - Apple (Needs Chrome to be installed)  
-
-## Headsets
-On Headsets, experiences can be run in their inbuilt browsers and simply typing in the deployment URL.  
-
-Google cardboard headsets essentially use Mobile Phones to power the VR Experience, so check the Mobile Phone section below.
-## Laptops/Desktops
-On Laptops/Desktop, experiences can be run on Chrome by accessing the deployment URL.  
-## Mobile Phones
-On Mobile Phones (both Android and iOS based), experiences can be run on Chrome by accessing the deployment URL.  
-
-In case you need to embed the experience within an App or a website, follow the guides below:  
-
-<Card heading={"Website Embed"}    link={"/docs/features/publish/embed/website-embed"} />
-<Card heading={"Android Embed"}  link={"/docs/features/publish/embed/android-embed"} /> 
-<Card heading={"React Embed"}    link={"/docs/features/publish/embed/react-native-embed"} />  
-
-## Is GMetri WCAG AAA compliant?
-According to the [WCAG guideline page](https://www.w3.org/WAI/standards-guidelines/wcag/#for/),
-
-WCAG is primarily intended for:
-* Web content developers (page authors, site designers, etc.)
-* Web authoring tool developers
-* Web accessibility evaluation tool developers
-* Others who want or need a standard for web accessibility, including for mobile accessibility
-
-GMetri Platform is **WCAG AAA** compliant. AAA refers to the highest level of success criteria. 
-
-To understand different levels of conformance, head [here](https://www.w3.org/TR/WCAG20/#conformance/).
 
 ## Why do my panoramic photos look less than stellar?
 
@@ -139,17 +104,14 @@ First, try to zoom out using the editor's zooming feature. If that didn't work,
 - While exporting from Fusion Studio, you can also adjust the colour settings to make the image look better
 - If you are compressing your images, there will be a drop in quality. Find the best compression to quality ratio that works for you by trying them out for yourself. GMetri Suggested Compression for JPEG - [squoosh](https://squoosh.app/) and for PNG - [tinypng](https://tinypng.com/)
 
-
 ## How to set up the camera view at the beginning of the scene?
 
-We can set up the camera view at the beginning of each scene, by accessing the scene properties. You can do this by selecting the scene in the Structure tab and then open up the Properties tab. The scene has the following properties:
+We can set up the camera view at the beginning of each scene, by accessing the scene properties. You can do this by selecting the scene in the Structure tab and then open up the Properties tab. A scene has the following properties:
 
-- **Scene Yaw Correction** - Which will set the direction the scene will start with, in yaw (horizontal direction)
-- **Scene Pitch Correction** -  Which will set the direction the scene will start with, in pitch (vertical direction)
-- **Scene Reset Rotation** - Which will reset the scene rotation to the Scene Yaw and Pitch Correction values every time the scene is changed to this current scene 
-- **Scene Gyro Lock** - Which will lock the gyroscope of your device, ensuring your content remains on screen no matter how you turn your mobile device
+- **Initial Yaw** - This determines the initial yaw (horizontal angle) the camera looks when the scene starts
+- **Reset Rotation** - Setting this true ensures the camera always follows the "Initial Yaw" setting when entering a new scene, ignoring the direction it was loking at in the previous scene.
 
-For example, if you want the scene to start every time looking 70° to the right, set Scene Yaw Correction to 70° (or -70° for turning left) and switch on Scene Reset Rotation. 
+For example, if you want the scene to start every time looking 70° to the right, set Initial Yaw to 70° (or -70° for turning left) and switch Reset Rotation "on".
 
 ## How to snap 360 images from Google Street View?
 
