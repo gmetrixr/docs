@@ -31,9 +31,8 @@ To support communication between LMS and a GMetri experience, we allow defining 
 The following is an exhaustive list of SCORM actions that we support.
 
 
-1. **Set SCORM min score:** This can is used to notify the LMS about the minimum score possible to get in the experience. This should usually be fired right at the beginning of the experience.
-
-2. **Set SCORM max score:** This can is used to notify the LMS about the minimum score possible to get in the experience. This should usually be fired right at the beginning of the experience.
+1. **Set SCORM min score:** This can is used to notify the LMS about the minimum score possible to get in the experience. This should usually be fired right at the beginning of the experience and is generally set to 0.
+2. **Set SCORM max score:** This can is used to notify the LMS about the minimum score possible to get in the experience. This should usually be fired right at the beginning of the experience and is generally set to 100.
 3. **Set SCORM score:** This can be used to notify the LMS about the current score of the user. Usually, LMSes show scoring after completion of the course but make sure to keep calling this action as and when the score inside the experience changes.
 4. **Set SCORM status as passed:** This can be used to notify the LMS when the user has met the criteria of successfully passing the module.
 5. **Set SCORM status as failed:** This can be used to notify the LMS when the user has failed the module.
@@ -52,3 +51,8 @@ The following is an exhaustive list of SCORM actions that we support.
  ![failed scorm](https://s.vrgmetri.com/image/w_1200,h_163,q_90/gb-web/portal-docs/assets/img/screenshots/set-scorm-failed.png)
 
 ![complete scorm](https://s.vrgmetri.com/image/w_1200,h_163,q_90/gb-web/portal-docs/assets/img/screenshots/set-scorm-complete.png)
+
+## Adding SCORM actions to your GMetri Experiences
+1. **Set SCORM min score** and **Set SCORM max score** actions should be added right at the beginning of the experience. Add rules to set scorm **min score = 0** and set scorm **max score = 100**. 
+2. **Set SCORM score** should be called at the end of the experience when you want to relay the **score value** to the LMS. 
+3. **Set SCORM passed/failed/complete** should be called at the end of the experience when you want to relay this information to the LMS. `Please note that certain LMS's don't track scores unless a rule for set SCORM complete is fired.`
