@@ -1,5 +1,5 @@
 ---
-title: "Documentation for using GMetri Platform"
+title: "GMetri Documentation"
 description: Getting started, Features, Tutorials, Guidelines, FAQs for using GMetri Platform related to creation of XR experiences, Content, Deployment with Oculus GO for your business requirements.
 
 sidebar_label: 'Documentation' #Name in sidebar
