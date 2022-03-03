@@ -56,3 +56,12 @@ The following is an exhaustive list of SCORM actions that we support.
 1. **Set SCORM min score** and **Set SCORM max score** actions should be added right at the beginning of the experience. Add rules to set scorm **min score = 0** and set scorm **max score = 100**. 
 2. **Set SCORM score** should be called at the end of the experience when you want to relay the **score value** to the LMS. 
 3. **Set SCORM passed/failed/complete** should be called at the end of the experience when you want to relay this information to the LMS. `Please note that certain LMS's don't track scores unless a rule for set SCORM complete is fired.`
+
+## Integration with LMS
+To test that information is correctly shared between GMetri and LMS, we suggest you to first import the test SCORM packages that cover all the scenarios specified in the previous sections. 
+
+If the integration works perfectly, after importing the test packages, you should be able to see the user's unique ID, be able to score the user and mark the course as completed right within the experience.
+
+
+* [SCORM Package 1.2](https://gb-web.s3.ap-south-1.amazonaws.com/SCORM/test/lms_demo_scorm_1.2_2022-03-03T09_46_18.135Z.zip)
+* [SCORM Package 2004 v3](https://gb-web.s3.ap-south-1.amazonaws.com/SCORM/test/lms_demo_scorm_2004_2022-03-03T09_46_34.263Z.zip)
