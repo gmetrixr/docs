@@ -58,4 +58,4 @@ type PlayerOptions = {
 1. **htmlAnchor** - Reference to the HTML element you want the player to attach to 
 2. **onSceneChange** - Optional callback, fired whenever a scene is changed inside the experience
 3. **onRuleTriggered** - Optional callback, fired whenever a rule is triggered
-4. **onViewerStateChange** - Optional callback, fired whenever the variables state changes. Documentation on variables can be found [here](/docs/platform/create/variables/intro)
+4. **onViewerStateChange** - Optional callback, fired whenever the variables state changes. Documentation on variables can be found [here](/docs/platform/create/variables)

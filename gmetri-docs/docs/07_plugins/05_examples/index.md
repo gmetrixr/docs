@@ -1,7 +1,7 @@
 ---
-sidebar_label: Uploading Files
-sidebar_position: 1
-hide_table_of_contents: false
+#sidebar_label: Uploading Files
+#sidebar_position: 1
+#hide_table_of_contents: false
 ---
 
 # Uploading Files
