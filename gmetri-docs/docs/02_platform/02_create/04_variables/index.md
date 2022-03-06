@@ -1,8 +1,5 @@
 ---
-sidebar_label: 'Introduction' #Name in sidebar
-sidebar_position: 1 # float position is supported
 ---
-
 # Variables
 
 GMetri experiences fully embrace "variables". Variables allows you to gamify your experiences and orchestrate a variety of interactions.

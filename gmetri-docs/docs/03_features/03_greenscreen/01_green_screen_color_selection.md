@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Green Screen Color Selection' #Name in sidebar
-sidebar_position: 2 # float position is supported
+sidebar_position: 1 # float position is supported
 ---
 # Accurate Color Selection for Green Screen
 

@@ -1,8 +1,6 @@
 ---
 description: Understand concepts related to Elements on the GMetri XR platform.
 hide_title: true
-sidebar_label: Introduction
-sidebar_position: 1
 ---
 
 # Elements

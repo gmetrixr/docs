@@ -2,7 +2,6 @@
 title: Build XR Experiences on GMetri Platform
 description: Understand concepts related to Rules on the GMetri XR platform.
 hide_title: true
-sidebar_label: Introduction
 ---
 
 # Introduction to Rules

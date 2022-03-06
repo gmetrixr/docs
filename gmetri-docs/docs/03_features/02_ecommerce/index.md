@@ -1,6 +1,4 @@
 ---
-sidebar_label: 'GMetri E-Commerce Plugin ' #Name in sidebar
-sidebar_position: 2 # float position is supported
 ---
 
 # GMetri E-Commerce Plugin 
