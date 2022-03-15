@@ -15,7 +15,7 @@ When you create an account on GMetri, an **API token** will be automatically gen
 Users on any plan can develop plugins using the plugin APIs
 :::
 
-Use this **token** to make REST API calls to create, view and edit your experiences.
+Use this **token** to make [REST API](/docs/plugins/rest_api) calls to create, view and edit your experiences.
 
 
 
