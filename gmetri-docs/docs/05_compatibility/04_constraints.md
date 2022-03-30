@@ -38,3 +38,10 @@ For example, if you run 3 4K (4096x2048) vidoes, you are effectively using 3x409
 So, try to limit the number of high resolution images and videos you add to a scene.
 
 When you run out of graphic memory, you may also see things like green screen not work properly.
+
+### Audio limitations
+There is a hard limit on the number of Audio elements (including both Audio and TTS elements) that can be added in a single scene. Currently, this limit is set to 60 to ensure that there are no overloading issues when the experience is played on low-end devices.
+
+There are 2 approaches to move around the this restriction:
+1. Re-use the same audio element to play different parts of the audio at different instances using the **"play from"** event.
+2. Break down the scenes such that the total number of Audio elements doesn't go beyond 60.
