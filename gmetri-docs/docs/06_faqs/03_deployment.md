@@ -83,7 +83,7 @@ There are a few legacy methods that you can still fall back on, you can find the
 
 ## How can I send someone directly to a particular scene when they click the experience link?
 
-The way to go directly to a scene is the add the scene_id at the end of the deployment URL like this:
+The way to go directly to a scene is to add the scene_id at the end of the deployment URL like this:
 
 _`https://view.gmetri.com/v5/gmetri/demo_deployment`_**?scene_id=1639550027086**
 
