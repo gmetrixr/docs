@@ -81,7 +81,7 @@ Here's how you can set this up:
 There are a few legacy methods that you can still fall back on, you can find them [here](https://pixvana.com/sharing-your-oculus-go-screen-on-your-laptop/).
 
 
-## How can I send someone directly at a particular scene when they click the experience link?
+## How can I send someone directly to a particular scene when they click the experience link?
 
 The way to go directly to a scene is the add the scene_id at the end of the URL like this:
 
