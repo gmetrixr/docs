@@ -41,9 +41,9 @@ https://support.gmetri.com/docs/compatibility/platform-compatibility-matrix#medi
 
 |Platform                 | No of 1K videos      | No of ~4K Videos (3840x1920) |
 |---------                | :-----:              | :-----:                      |
-| Desktop/Laptop          | 4                    | 4                            |
-| Androids Phones         | 4                    | 4                            |
-| iOS Phones              | 4                    | 4                            |
+| Desktop/Laptop          | 4                    | 1                            |
+| Androids Phones         | 4                    | 1                            |
+| iOS Phones              | 4                    | 1                            |
 
 ### Audio (number of parallel streams)
 
