@@ -37,7 +37,7 @@ All devices have inherent limitation on the number of audio/video streams they c
 https://support.gmetri.com/docs/compatibility/platform-compatibility-matrix#media-codec-compatibility
 
 
-### Video
+### Video (number of parallel streams)
 
 |Platform                 | No of 1K videos      | No of ~4K Videos (3840x1920) |
 |---------                | :-----:              | :-----:                      |
@@ -45,9 +45,9 @@ https://support.gmetri.com/docs/compatibility/platform-compatibility-matrix#medi
 | Androids Phones         | 4                    | 4                            |
 | iOS Phones              | 4                    | 4                            |
 
-### Audio
+### Audio (number of parallel streams)
 
-|Platform                 | No of audio elements |
+|Platform                 | No of parallel audio streams |
 |---------                | :-----:              | 
 | Desktop/Laptop          | 7                    | 
 | Androids Phones         | 7                    |                  
