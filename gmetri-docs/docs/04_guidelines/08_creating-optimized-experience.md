@@ -39,7 +39,7 @@ https://support.gmetri.com/docs/compatibility/platform-compatibility-matrix#medi
 
 ### Video (number of parallel streams)
 
-|Platform                 | No of 1K videos      | No of ~4K Videos (3840x1920) |
+|Platform                 | No of HD videos (1280x720)      | No of ~4K Videos (3840x1920) |
 |---------                | :-----:              | :-----:                      |
 | Desktop/Laptop          | 4                    | 1                            |
 | Androids Phones         | 4                    | 1                            |
