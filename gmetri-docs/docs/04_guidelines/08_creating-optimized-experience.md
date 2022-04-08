@@ -20,10 +20,8 @@ Dependent on asset size. A 26Kb is better than a 100Kb image.
 Affected by image resolution: pixels used by an image, calculated by  (x*y)
 
 - Don't use image/videos of a resolution higher than needed. A 50px * 50px image is better than a 100px * 100px image
-
-What this means is that even a 10Kb image of resolution 100,000px * 100,000px can crash your device, as it would take roughly 10GB of grahic memory. 
-
-> **File size affects loading speed (more network usage for larger files). File resolution affects graphic memory (more memory for the more pixels).**
+- What this means is that even a 10Kb image of resolution 100,000px * 100,000px can crash your device, as it would take roughly 10GB of grahic memory. 
+- **File size affects loading speed (more network usage for larger files). File resolution affects graphic memory (more memory for the more pixels).**
   
 ### CPU/GPU Usage
 
