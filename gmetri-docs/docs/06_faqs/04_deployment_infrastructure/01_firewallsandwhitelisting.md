@@ -53,6 +53,6 @@ Staging/Testing Environment: `*.gmetri.io`
 First, try opening the following links in your browser and make a note of everything that doesn't open:
 
 1. [Test 1 - Image](https://s.vrgmetri.com/gb-web/common/images/control-panel/vr_v2.png) - you should see a VR headset logo
-2. [Test 2 - Experience](https://view.gmetri.com/v4/game/safehands) - you should see a VR experience
+2. [Test 2 - Experience](https://view.gmetri.com/v5/game/safehands) - you should see a VR experience
 
 Contact us at support@gmetri.com with the results of the above test
