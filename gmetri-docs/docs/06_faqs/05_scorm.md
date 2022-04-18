@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'SCORM FAQs' #Name in sidebar
-sidebar_position: 4 # float position is supported
+sidebar_position: 5 # float position is supported
 #TODO: Need to update links
 ---
 import Card from "/src/components/Card"
