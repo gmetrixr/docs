@@ -17,7 +17,7 @@ import Card from "/src/components/Card"
 <Card heading={"Features"} link={"./features/ecommerce/ecommerce"} />
 <Card heading={"Guidelines"} link={"./gudelines"} />
 <Card heading={"Compatibility"} link={"./compatibility/platform-compatibility-matrix"} />
-<Card heading={"FAQs"} link={"./faqs/general"} />
+<Card heading={"FAQs"} link={"./faqs"} />
 
 ## Meet GMetri
 
