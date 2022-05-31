@@ -45,3 +45,9 @@ There is a hard limit on the number of Audio elements (including both Audio and 
 There are 2 approaches to moving around this restriction:
 1. Re-use the same audio element to play different parts of the audio at different instances using the **"play from"** event.
 2. Break down the scenes such that the total number of Audio elements doesn't go beyond 60.
+
+#### Audio on iOS Devices
+
+iOS devices don't support volume controls. This has two implications:
+1. No volume control icon on top of the experience
+2. Volume control rules don't work
