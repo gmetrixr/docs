@@ -67,7 +67,7 @@ If the integration works perfectly, after importing the test package, you should
 * [SCORM Package 2004 v3](https://gb-web.s3.ap-south-1.amazonaws.com/SCORM/test/lms_demo_scorm_2004_2022-03-03T09_46_34.263Z.zip)
 
 ## Data Share
-There are 2 types of data that needs to be shared between the LMS and the GMetri system. We categorize this as inbound and outbound data. 
+There are 2 types of data that needs to be shared between the LMS and the GMetri system. We categorize these as inbound and outbound data. 
 * Inbound - This is the data that is required for day-to-day functioning of GMetri experiences
   * Learner ID - User's learner ID as stored in the LMS [cmi.core.student_id (SCORM 1.2) / cmi.learner_id (SCORM 2004 V3)]
   * Progress - User's progress through the course as stored in the LMS [cmi.progress_measure (SCORM 2004 V3)]
