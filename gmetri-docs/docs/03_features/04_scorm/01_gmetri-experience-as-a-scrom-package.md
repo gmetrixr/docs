@@ -65,3 +65,15 @@ If the integration works perfectly, after importing the test package, you should
 
 * [SCORM Package 1.2](https://gb-web.s3.ap-south-1.amazonaws.com/SCORM/test/lms_demo_scorm_1.2_2022-03-03T09_46_18.135Z.zip)
 * [SCORM Package 2004 v3](https://gb-web.s3.ap-south-1.amazonaws.com/SCORM/test/lms_demo_scorm_2004_2022-03-03T09_46_34.263Z.zip)
+
+## Data Share
+There are 2 types of data that needs to be shared between the LMS and the GMetri system. We categorize this as inbound and outbound data. 
+* Inbound - This is the data that is required for day-to-day functioning of GMetri experiences
+  * Learner ID - User's learner ID as stored in the LMS [cmi.core.student_id (SCORM 1.2) / cmi.learner_id (SCORM 2004 V3)]
+  * Progress - User's progress through the course as stored in the LMS [cmi.progress_measure (SCORM 2004 V3)]
+  * Suspend Data - Additional information stored in the LMS for course to run [cmi.suspend_data (SCORM 2004 V3 & SCORM 1.2)]
+  * Score - Score stored in the LMS [cmi.core.score.raw (SCORM 1.2) / cmi.score.raw (SCORM 2004 V3) ]
+* Outbound - This is the data sent out by GMetri system that should be stored inside the LMS. This includes functions like scoring, course completion etc
+  * Progress - User's progress through the course calclated in the GMetri system. (SCORM 2004 V3)]
+  * Suspend Data - Additional information stored in the LMS for course to run [cmi.suspend_data (SCORM 2004 V3 & SCORM 1.2)]
+  * Score - Score calculated in the GMetri system [cmi.core.score.raw (SCORM 1.2) / cmi.score.raw (SCORM 2004 V3) ]
