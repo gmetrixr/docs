@@ -10,7 +10,7 @@ These are the recommended quality settings and file sizes of various asset types
 
 ## 3D Models
 
-* Supported file formats: **glb, gltf, gltf2**
+* Supported file formats: **glb, gltf2**
 
 ## Videos
 
