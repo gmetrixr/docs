@@ -38,7 +38,7 @@ In the editor, a collider box element is represented as a cube. Position and dim
 In view, the collider box elements are represented as invisible cubes with which the players will collide and not walk through.
 
 :::info
-You can add as many Collider Box elements as you wish but we recommend lesser than 50 per scene to ensure smooth working on low-end desktop and mobile devices
+You can add as many Collider Box elements as you wish, but we recommend lesser than 50 per scene to ensure smooth working on low-end desktop and mobile devices
 :::
 
 ## 3D Scene setup with collisions 
