@@ -25,8 +25,8 @@ In view, scene bounds are invisible.
 
 #### Scene Bounds visibility can be controlled from viewport properties
 
-<video controls="true" allowfullscreen="true" muted="true" autoplay width="480px">
-  <source src="https://gb-web.s3.ap-south-1.amazonaws.com/portal-docs/assets/img/screenshots/3D_scene/3D_scene_viewport_properties_2.mp4" type="video/mp4" />
+<video controls="true" allowfullscreen="true" muted="true" width="100%">
+  <source src="https://gb-web.s3.ap-south-1.amazonaws.com/portal-docs/assets/img/screenshots/3D_scene/3D_scene_viewport_properties_2_converted.m4v" type="video/mp4" />
 </video>
 
 ### Collider Box Element
@@ -51,26 +51,26 @@ You can add as many Collider Box elements as you wish, but we recommend lesser t
       ![](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/3D_scene/3D_scene_default_elements.png#boxShadow)
 
 2. From the editor, add a new **Collider Box** element. 
-    * Align the element with one of the walls in the middle and adjust the scale.
-      <video controls="true" allowfullscreen="true" muted="true" autoplay width="480px">
-          <source src="https://gb-web.s3.ap-south-1.amazonaws.com/portal-docs/assets/img/screenshots/3D_scene/3D_scene_align_collider_wall_2.mp4" type="video/mp4" />
-      </video>
+   * Align the element with one of the walls in the middle and adjust the scale.
+
+<video controls="true" allowfullscreen="true" muted="true" autoplay width="100%">
+  <source src="https://gb-web.s3.ap-south-1.amazonaws.com/portal-docs/assets/img/screenshots/3D_scene/3D_scene_align_collider_wall_2_converted.m4v" type="video/mp4" />
+</video>
 3. From the Scene Properties, adjust the `Scene Bounds` to confine player movement within a space. This is by automatically configured for the default environment that comes with every new 3D scene.
 4. Ensure that `Collisions` are enabled from scene properties.
 5. Preview the scene or simply publish the experience to see your changes.
 
-
 ## Video Tutorial
 Here's the full video tutorial
 
-<video controls="true" allowfullscreen="true" muted="true" autoplay width="480px">
-  <source src="https://gb-web.s3.ap-south-1.amazonaws.com/portal-docs/assets/img/screenshots/3D_scene/3D_scene_setup_trimmer_1.5.mp4" type="video/mp4" />
+<video controls="true" allowfullscreen="true" muted="true" width="100%">
+  <source src="https://gb-web.s3.ap-south-1.amazonaws.com/portal-docs/assets/img/screenshots/3D_scene/3D_scene_setup_trimmer_1.5_converted.m4v" type="video/mp4" />
 </video>
 
 
 ## Final Experience
 Here's the final experience that we created in above steps
 
-<iframe width="90%" height="405px"src="https://jkbhaa.gmetri.com/demo?embed=true"frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; microphone; camera; display-capture;" allowfullscreen="true" >
+<iframe width="100%" height="405px"src="https://jkbhaa.gmetri.com/demo?embed=true"frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; microphone; camera; display-capture;" allowfullscreen="true" >
 </iframe>
 
