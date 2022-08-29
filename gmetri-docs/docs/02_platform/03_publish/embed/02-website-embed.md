@@ -5,6 +5,14 @@ hide_title: true
 sidebar_label: Website Embed
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/publishing-and-analytics/advanced-publishing-options/embed/website-embed" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/publishing-and-analytics/advanced-publishing-options/embed/website-embed
+:::
+
 # Website Embed
 
 Experiences created on the GMetri platform can be easily embedded within websites using the embed code generated after publishing the experience.

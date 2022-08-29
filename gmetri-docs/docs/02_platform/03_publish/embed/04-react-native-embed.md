@@ -5,6 +5,14 @@ hide_title: true
 sidebar_label: React Native (Android & iOS) Embed
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/publishing-and-analytics/advanced-publishing-options/embed/react-native-embed" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/publishing-and-analytics/advanced-publishing-options/embed/react-native-embed
+:::
+
 # React Native (Android & iOS) Embed
 
 There are various ways of embedding GMetri experiences within a React Native iOS/Android app.

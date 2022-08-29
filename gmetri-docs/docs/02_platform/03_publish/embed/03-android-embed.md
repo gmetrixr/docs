@@ -5,6 +5,14 @@ hide_title: true
 sidebar_label: Android Embed
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/publishing-and-analytics/advanced-publishing-options/embed/android-embed" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/publishing-and-analytics/advanced-publishing-options/embed/android-embed
+:::
+
 # Android Embed
 
 ## Implementing Chrome Custom Tabs for GMetri Experiences
