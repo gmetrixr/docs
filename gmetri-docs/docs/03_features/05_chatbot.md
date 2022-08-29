@@ -5,6 +5,15 @@ hide_title: true
 sidebar_label: Chatbot Integration
 sidebar_position: 4
 ---
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/integrations/adding-a-chatbot" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/integrations/adding-a-chatbot
+:::
+
 # Chatbot
 
 <iframe src="https://view.gmetri.com/v5/gmetri/example_chatbot" width="100%" height="400px"></iframe>

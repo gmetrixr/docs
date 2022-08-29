@@ -5,6 +5,14 @@ sidebar_position: 3 # float position is supported
 ---
 import Card from "/src/components/Card"
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/publishing-and-analytics/publishing-faqs" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/publishing-and-analytics/publishing-faqs
+:::
+
 # Deployment FAQs
 
 ## What hardware & software can GMetri experiences be viewed in?

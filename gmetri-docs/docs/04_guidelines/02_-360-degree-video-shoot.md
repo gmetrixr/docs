@@ -3,6 +3,14 @@ sidebar_label: '360 Degree Video Shoots' #Name in sidebar
 sidebar_position: 1 # float position is supported
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/guidelines/content-creation-guidelines/video-shoot-guidelines" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/guidelines/content-creation-guidelines/video-shoot-guidelines
+:::
+
 # 360 Degree Video Shoots
 
 360 Shoots are done using a 360 camera like **GoPro Fusion 360, Ricoh Theta V, Samsung Gear 360** etc., or using a **custom rig of multiple cameras**. No matter the camera used, make sure the shoot proceeds in the following manner.   

@@ -1,6 +1,14 @@
 ---
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/integrations/e-commerce-with-gmetri" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/integrations/e-commerce-with-gmetri
+:::
+
 # GMetri E-Commerce Plugin 
 
 GMetri allows creation of 360° shopping environments that can be linked with any e-commerce platform. This is done by creating plugins that bridge the communication 

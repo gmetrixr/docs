@@ -1,5 +1,14 @@
 ---
 ---
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/build/building-blocks/variables" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/build/building-blocks/variables
+:::
+
 # Variables
 
 GMetri experiences fully embrace "variables". Variables allows you to gamify your experiences and orchestrate a variety of interactions.

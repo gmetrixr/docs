@@ -3,6 +3,14 @@ sidebar_label: 'Using Variables'
 sidebar_position: 2
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/build/building-blocks/variables/using-variables" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/build/building-blocks/variables/using-variables
+:::
+
 # Using Variables
 
 Variables can be used in two ways:

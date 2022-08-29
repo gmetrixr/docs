@@ -2,6 +2,15 @@
 hide_title: true
 sidebar_label: Introduction
 ---
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/publishing-and-analytics" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/publishing-and-analytics
+:::
+
 # Authentication Mechanisms
 
 Authentication mechanisms help you restrict access to a deployment of your experience. You can use various types of authentication mechanisms for access restrictions as per your choice.

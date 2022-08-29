@@ -3,6 +3,14 @@ sidebar_label: 'Render 360 Panoramic Images' #Name in sidebar
 sidebar_position: 4 # float position is supported
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/guidelines/asset-guidelines/render-360-panoramic-images" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/guidelines/asset-guidelines/render-360-panoramic-images
+:::
+
 # Render 360 Panoramic Images
 
 360 Panoramic Images can be rendered from a 3D model using the 3D software 3DS Max.

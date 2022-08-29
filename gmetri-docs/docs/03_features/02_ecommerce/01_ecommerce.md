@@ -6,6 +6,14 @@ sidebar_position: 1 # float position is supported
 sidebar_label: E-Commerce Integration in a GMetri Experience
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/integrations/e-commerce-with-gmetri/using-an-e-commerce-plugin" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/integrations/e-commerce-with-gmetri/using-an-e-commerce-plugin
+:::
+
 # How to integrate an E-Commerce platform in a GMetri Experience 
 
 ## Description

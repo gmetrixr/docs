@@ -5,6 +5,15 @@ sidebar_position: 3 # float position is supported
 ---
 import Card from "/src/components/Card"
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/guidelines/asset-guidelines/asset-faqs" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/guidelines/asset-guidelines/asset-faqs
+:::
+
+
 # Content FAQS
 
 ## Can I use 4K 360 videos?

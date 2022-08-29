@@ -3,6 +3,14 @@ sidebar_label: 'Constraints' #Name in sidebar
 sidebar_position: 4 # float position is supported
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/guidelines/experience-optimizations" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/guidelines/experience-optimizations
+:::
+
 # Constraints
 
 There are certain limitation you should keep in mind while building a GMetri experience.

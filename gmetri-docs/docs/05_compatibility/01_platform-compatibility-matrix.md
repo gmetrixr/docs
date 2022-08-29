@@ -5,6 +5,14 @@ sidebar_position: 1 # float position is supported
 sidebar_label: Platform Compatibility Matrix
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/compatibility/platform-compatibility-matrix" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/compatibility/platform-compatibility-matrix
+:::
+
 # Platform Compatibility Matrix
 
 <!-- See list of icons here: https://fontawesome.com/v4.7.0/icons/ -->

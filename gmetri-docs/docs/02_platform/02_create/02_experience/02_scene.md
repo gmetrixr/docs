@@ -5,6 +5,14 @@ hide_title: true
 sidebar_label: Scene
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/build/building-blocks/scenes" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/build/building-blocks/scenes
+:::
+
 # Scene
 
 ## Description 

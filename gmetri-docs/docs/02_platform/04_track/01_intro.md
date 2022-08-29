@@ -7,6 +7,14 @@ hide_title: true
 ---
 import Card from "/src/components/Card"
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/publishing-and-analytics" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/publishing-and-analytics
+:::
+
 # Track
 
 GMetri platform provides rich analytics and tracking features. Browse sections below to know more.

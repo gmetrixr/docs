@@ -4,6 +4,15 @@ sidebar_position: 3 # float position is supported
 ---
 import Card from "/src/components/Card"
 
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/guidelines/experience-optimizations" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/guidelines/experience-optimizations
+:::
+
 # Asset Recommendations
 
 These are the recommended quality settings and file sizes of various asset types, for an experience to work smoothly.

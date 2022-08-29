@@ -6,6 +6,14 @@ sidebar_position: 2 # float position is supported
 sidebar_label: Shopify Integration
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/integrations/e-commerce-with-gmetri/shopify-integration" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/integrations/e-commerce-with-gmetri/shopify-integration
+:::
+
 # Shopify Integration
 
 This tutorial will demonstrate how to integrate a Shopify Storefront within a GMetri experience.

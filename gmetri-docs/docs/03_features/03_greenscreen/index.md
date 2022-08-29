@@ -5,6 +5,15 @@ hide_title: true
 sidebar_label: Green Screen Effect
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/workflows/green-screen" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/workflows/green-screen
+:::
+
+
 # Add a Green Screen Effect with Videos
 
 <iframe width={"100%"} height={"380px"} src="https://view.gmetri.com/v5/gmetri/green-screen" frameBorder="0" allowFullScreen></iframe>

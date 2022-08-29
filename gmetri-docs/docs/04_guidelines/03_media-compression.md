@@ -2,6 +2,15 @@
 sidebar_label: 'Media Compression' #Name in sidebar
 sidebar_position: 2 # float position is supported
 ---
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/guidelines/experience-optimizations" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/guidelines/experience-optimizations
+:::
+
 # Media Compression
 
 ## Image Compression

@@ -5,6 +5,14 @@ sidebar_position: 5 # float position is supported
 ---
 import Card from "/src/components/Card"
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/integrations/scorm" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/integrations/scorm
+:::
+
 # SCORM FAQs
 
 ## How do I make use of the GMetri SCORM?

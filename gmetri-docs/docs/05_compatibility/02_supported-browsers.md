@@ -5,6 +5,14 @@ sidebar_position: 2 # float position is supported
 sidebar_label: Supported Browsers
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/compatibility/supported-browsers" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/compatibility/supported-browsers
+:::
+
 # GMetriXR Player - Supported Browsers
 
 If you aren't on one of the browsers mentioned below, you may see an **"Unsupported Browser"** screen.

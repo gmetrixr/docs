@@ -2,6 +2,15 @@
 sidebar_label: 'Export GLTF from 3DS Max' #Name in sidebar
 sidebar_position: 2 # float position is supported
 ---
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/guidelines/asset-guidelines/3d-modelling-guidelines/export-gltf-from-3ds-max" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/guidelines/asset-guidelines/3d-modelling-guidelines/export-gltf-from-3ds-max
+:::
+
 # Export GLTF from 3DS Max
 
 GLTF Models can be exported from the 3D software [3ds Max](https://www.autodesk.in/products/3ds-max/overview) using a third party script - [babylon.js](https://doc.babylonjs.com/resources/3dsmax#how-to-install-the-3ds-max-plugin) GLTF Exporter.

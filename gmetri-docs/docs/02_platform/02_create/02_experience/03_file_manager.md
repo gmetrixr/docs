@@ -5,6 +5,14 @@ hide_title: true
 sidebar_label: File Manager
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/build/file-manager" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/build/file-manager
+:::
+
 # File Manager
 
 All assets used in GMetri experiences are managed using the Fila Manager.

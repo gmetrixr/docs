@@ -6,6 +6,15 @@ sidebar_label: Adding Sprites
 sidebar_position: 6
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/workflows/adding-sprites" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/workflows/adding-sprites
+:::
+
+
 # Adding Sprites
 
 ## Description

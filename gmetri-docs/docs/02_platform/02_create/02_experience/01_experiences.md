@@ -5,6 +5,14 @@ hide_title: true
 sidebar_label: Experiences
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/build/project-settings" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/build/project-settings
+:::
+
 # Experiences
 
 ![Dashboard](https://s.vrgmetri.com/image/q_90/gb-web/portal-docs/assets/img/screenshots/dashboard_experiences.png.jpg#boxShadow/)

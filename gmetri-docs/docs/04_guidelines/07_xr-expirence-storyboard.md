@@ -3,6 +3,14 @@ sidebar_label: 'XR Experience Storyboard' #Name in sidebar
 sidebar_position: 5 # float position is supported
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/guidelines/content-creation-guidelines/xr-experience-storyboard" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/guidelines/content-creation-guidelines/xr-experience-storyboard
+:::
+
 # XR Experience Storyboard
 
 Before you commence creating experiences on GMetri, it is always good to have a clear outline of what you're building.  

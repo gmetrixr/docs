@@ -2,6 +2,14 @@
 hide_table_of_contents: false
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/platform/sdk" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/platform/sdk
+:::
+
 # GMetri Plugin Ecosystem
 
 Plugins are third-party scripts or applications that extend the functionality of GMetri Editor or Viewer. They allow users to customize their experiences or create more efficient workflows.

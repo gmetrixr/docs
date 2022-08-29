@@ -3,6 +3,15 @@ sidebar_label: 'Embed a SCORM package in a GMetri experience'
 sidebar_position: 2
 ---
 
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/integrations/scorm/embed-a-scorm-package-in-a-gmetri-experience" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/integrations/scorm/embed-a-scorm-package-in-a-gmetri-experience
+:::
+
 # Embed a SCORM package in a GMetri experience
 
 Once you create an [experience](https://docs.gmetri.com/Features/Create/experiences/) on the GMetri platform, you can embed an external SCORM package inside the experience.

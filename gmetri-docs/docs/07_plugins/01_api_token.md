@@ -4,6 +4,16 @@ sidebar_position: 2
 hide_table_of_contents: false
 ---
 
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/platform/sdk" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/platform/sdk
+:::
+
+
 # API Tokens
 
 To use **GMetri Plugin API**, you will first need to create an account on the GMetri Platform. 

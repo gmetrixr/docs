@@ -3,6 +3,14 @@ description: Understand concepts related to Elements on the GMetri XR platform.
 hide_title: true
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/build/building-blocks/elements" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/build/building-blocks/elements
+:::
+
 # Elements
 
 Elements are the basic building blocks added to a scene. Examples of elements are `Cube`,`Text` `Polygon`, `Product Card` and many more.

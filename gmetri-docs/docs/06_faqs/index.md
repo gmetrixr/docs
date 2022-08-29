@@ -7,6 +7,14 @@ title: "FAQs"
 ---
 import Card from "/src/components/Card"
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/
+:::
+
 # FAQs
 
 <Card heading={"General FAQs"} link={"/docs/faqs/general"} />

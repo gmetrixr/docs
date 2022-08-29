@@ -6,6 +6,14 @@ sidebar_label: QR Code Scanner
 sidebar_position: 5
 ---
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/workflows/qr-code-scanner" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/workflows/qr-code-scanner
+:::
+
 # QR Code Scanner
 
 Let's learn how to make a simple QR code scanner app.

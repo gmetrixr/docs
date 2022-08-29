@@ -3,6 +3,15 @@ sidebar_label : 'GMetri experience as a SCORM package'
 sidebar_position: 1
 ---
 
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/integrations/scorm/gmetri-experience-as-scorm-package" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/integrations/scorm/gmetri-experience-as-scorm-package
+:::
+
 # GMetri experience as a SCORM package
 
 

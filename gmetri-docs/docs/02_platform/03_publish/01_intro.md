@@ -6,6 +6,15 @@ description: Create Deployment, Structure of the Deployment's Card, Tweaking Dep
 hide_title: true
 ---
 
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/publishing-and-analytics" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/publishing-and-analytics
+:::
+
 # Deployment
 
 Once an experience is built, it's time to deploy the experience so that others can open and view your experiences. This is done by creating deployments.

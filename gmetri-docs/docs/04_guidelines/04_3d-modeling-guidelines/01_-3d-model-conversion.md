@@ -4,6 +4,15 @@ sidebar_position: 1 # float position is supported
 ---
 import Card from "/src/components/Card"
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/guidelines/asset-guidelines/3d-modelling-guidelines" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/guidelines/asset-guidelines/3d-modelling-guidelines
+:::
+
+
 # 3D Models Conversion
 
 The platform has 3D model support but works only with the lightweight web-based gtlf or glb version 2 formats.

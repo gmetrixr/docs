@@ -4,6 +4,14 @@ sidebar_position: 3 # float position is supported
 ---
 import Card from "/src/components/Card"
 
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/guidelines-compatibility/guidelines/asset-guidelines/quicklinks-contents-and-assets" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/guidelines-compatibility/guidelines/asset-guidelines/quicklinks-contents-and-assets
+:::
+
 # QuickLinks - Content and Assets
 Listed here are several online repositories where you can find the resources for your Virtual Reality Experiences. Quicklink Content and Assets on GMetri Documentation.
 

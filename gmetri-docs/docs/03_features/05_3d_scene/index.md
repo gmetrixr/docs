@@ -5,6 +5,15 @@ hide_title: true
 sidebar_label: 3D Scenes
 ---
 
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/build/building-blocks/scenes/3d-scenes" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/build/building-blocks/scenes/3d-scenes
+:::
+
 # 3D Scenes and Collisions
 This section will demonstrate how to setup 3D Scenes and Collision using Collider Box elements. 
 

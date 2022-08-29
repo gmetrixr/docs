@@ -4,6 +4,15 @@ sidebar_position: 4
 hide_table_of_contents: false
 ---
 
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/platform/sdk/gmetri-player" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/platform/sdk/gmetri-player
+:::
+
 # Player
 
 GMetri Player is a **full-fledged Metaverse application** that can run experiences created with Plugin API.
