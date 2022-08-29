@@ -6,11 +6,11 @@ import Card from "/src/components/Card"
 
 
 <head>
-  <link rel="canonical" href="https://docs.gmetri.com/metaverse/build/building-blocks/rules" />
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/build" />
 </head>
 
 :::warning DOCUMENTATION MOVED
-Go to the new version of this page at https://docs.gmetri.com/metaverse/build/building-blocks/rules
+Go to the new version of this page at https://docs.gmetri.com/metaverse/build
 :::
 
 # Create

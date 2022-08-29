@@ -4,6 +4,15 @@ description: Understand concepts related to Rules on the GMetri XR platform.
 hide_title: true
 ---
 
+
+<head>
+  <link rel="canonical" href="https://docs.gmetri.com/metaverse/build/building-blocks/rules" />
+</head>
+
+:::warning DOCUMENTATION MOVED
+Go to the new version of this page at https://docs.gmetri.com/metaverse/build/building-blocks/rules
+:::
+
 # Introduction to Rules
 
 Rules define the actions performed based on certain event triggers. Event triggers can be in the form of clicks, scene loads and many more.
